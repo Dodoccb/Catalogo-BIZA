@@ -1,0 +1,793 @@
+﻿Item;Data da Ideia;ANO IDEIA MELHORIA;Agente da Melhoria;Setor onde Trabalha;Setor onde será implementada a melhoria;Metodologia de atuação na melhoria ;Descreva como é a atividade atualmente;Descrição da Ideia de Melhoria (O que / Como);Benefícios da ideia;Avaliação da ideia;" HARD SAVINGS
+(Custo antes) ";" SOFT SAVINGS
+(Custo antes) ";" HARD SAVINGS
+(Custo depois) ";" SOFT SAVINGS
+(Custo depois) ";Custo do investimento;Obs. Sobre os custos;Data de Avaliação;Líder da Implementação;ANO MELHORIA IMPLEMENTADA;Prazo;Data de Conclusão;Comentários;"HARD SAVINGS
+(Ganho Anual)";"SOFT SAVINGS
+(Ganho Anual)";Pontos TOTAIS;Pontos financeiro;"Satisfação dos colaboradores
+(Grêmio / Outros...)";"Pontos seg.
+(Redução/Prevenção acidentes)";"Pontos Qualidade Produto
+(Redução de refugos / Melhor aplicação/Etc...)";"Pontos Meio ambiente
+(ISO14001)";"Pontos 5S
+(Alteração de Layout, Melhor Organização, Limpeza, Etc...)";"Pontos automação / Inovação
+(Transformação de processos manuais em automáticos, etc...)";"Ponto Dados e Informações
+(Tratativa de dados sistêmicos e manuais, Etc...)";"Ponto Redução de Custo (apenas para HRD saving)) / Aumento de Receita
+(Alteração de processos, Venda de itens não produtivos, Etc...)";"Documento de evidência e acompanhamento da melhoria
+(BOM / RO / GRD / SPRINT / Etc.)";Status;Tempo em Aberto;Dias em Aberto;Mês e Ano
+1;11/09/2020;2020;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;11092020 - RETIRADO PROCESSO DE FURO DE CENTRO DO CONVENCIONAL E FEITO DIRETO NOS CNC;TIVEMOS UM GANHO DE 2 MINUTOS E ELIMINAMOS DOIS PROCESSO.    SAIU FURO DE CENTRO T009 E O PROCESSO DE ELIMINAR PONTAS EXEDENTES T002;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;11/09/2020;Slauco;2020;11/09/2020;11/09/2020;Registros MIRO; R$ -   ; R$ -   ;36;2;1;3;2;1;1;3;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/20
+2;14/09/2020;2020;Slauco;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;COMP1510891 - Retirado processo de furo de centro, retirada ponta exedentes e uma operação CNC. ;O ganho foi a diminuição de dois processo do convencional e uma operação CNC, o tempo economizado 00:50:00 de setup e produção 00:10:00 por pecas. ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;14/09/2020;Slauco;2020;14/09/2020;14/09/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/20
+3;14/09/2020;2020;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;comp3g5238 - peça deceu com processo de serra e depois esquadrejar inteira no cetro de usinagem, sugerimos mudança no roteiro. Serrar . Esquadrejar no oxicorte depois centro de usinagem;emcorporamos uma operação De oxicorte, Mas vamos ter um ganho de aprocimadamente umas quatro horas de centro de usinagem;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;14/09/2020;VALDOMIRO;2020;14/09/2020;14/09/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/20
+4;14/09/2020;2020;Ironir;Torno Convencional;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;COMP1967370 - ajustado o tempo correto da operação do  furo passante que é feito no T002;antes o tempo descrito era de 1 hora por peças foi atualizado foi feito com 30 minutos por peças;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;14/09/2020;Ironir;2020;14/09/2020;14/09/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/20
+5;17/09/2020;2020;Slauco;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1107722 - Retirado processo de furo de centro, retirada ponta exedentes e uma operação CNC. ;O ganho foi a diminuição de dois processo do convencional e uma operação CNC, o tempo economizado 00:30:00 de setup e produção 00:03:00 por pecas. ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/09/2020;Slauco;2020;17/09/2020;17/09/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/20
+6;17/09/2020;2020;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;4517080 - foi feito inversão no processo para melhorar tempo de retifica , era feito uma  peça por vez ,foi feito dispositivo para fazer 5 peças no eixo ;ANTES : 1 peça era feita em 00:50 minutos ,AGORA 5 peças em 1 hora  e a  peça não está  ovalizando como antes .          ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/09/2020;AROLDO;2020;17/09/2020;17/09/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/20
+7;15/08/2020;2020;EDSON;Manutenção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;13030B1170 - foi incorporado uma operação de retifica no diametro interno das peças, com o intuito de reduzir o tempo de brunimento,   isto só pode ser concretizado apos a alteração no eixo da retifica r010, feito pelo Edson Lobo.;antes o tempo de brunimento girava em torno de 50 minutos a 01:10:00 por peça, com a inclusao de mais uma operação ficou com um tempo de 10 minutos na retifica e 10 minutos para brunir;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;15/08/2020;EDSON;2020;15/08/2020;15/08/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/20
+8;03/11/2020;2020;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;4524948 - Esse item com Diminuição de material e usando a mesa magnética deu 04:00:00 caiu o tempo 00:40:00 por peça ;Com pouco sobre metal e mesa magnética alem de ganhar 03:20:00 de usinagem também ganha em qualidade a peca sai inteira esquadrejada.  ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;03/11/2020;Slauco;2020;03/11/2020;03/11/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/20
+9;03/11/2020;2020;JUNIOR;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;R4168138 - Retiramos uma operação da furadeira para fazer um furo para arraste dentro da operação do torno T020 ou T021 tem ferramenta acionada ;Com o torno fazendo o furo para arraste ganhamos 01:20:00 na OP de 8 pecas;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;03/11/2020;Slauco;2020;03/11/2020;03/11/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/20
+10;03/11/2020;2020;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;7T4145 - Esse item diminuímos algumas  operações que envolvia usinagem depois ia pra alivio de tenção  voltava usinagem depois soldava uma trava pra não empenar no tratamento térmico voltava do tratamento passava pelo setor acabamento pra solta as trava usinagem final e depois seguia processo da OP. ;tivemos uma ganho por reduzir uma ida no tratamento termico. A peça dexou de ser comp virou produto. Não precisa mais soudar e nem cortar as trizetas. Tempo reduzido no procsso de usinagem em media 30 minutos por peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;03/11/2020;Leonard;2020;03/11/2020;03/11/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/20
+11;03/11/2020;2020;JUNIOR;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;R4226578 - Retiramos uma operação da furadeira para fazer um furo para arraste dentro da operação do torno T020 ou T021 tem ferramenta acionada ;Com o torno fazendo o furo para arraste ganhamos em media 00:12:00 por peca e menos locomoção do item e redução de operação;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;03/11/2020;Slauco;2020;03/11/2020;03/11/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/20
+12;18/11/2020;2020;JUNIOR;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;4404118 - os dois furos travas deste item, inicialmente era feito na G006 fresa convencional. Tempo gasto por peças era de 8 horas. Foi feito um investimoento em uma broca com pontas recmbiaveis, e mudado a operação pra o centro de usinagem. Com isto tivemos um ganho consederavel em tempos do processo, agora é possivel tirar a operação com um tempo de 45 miutos.  para fazer na fresa custa R$ 560.00  para fazer no centro de usnagem custa R$ 120.00;TEMPO GANHO POR PEÇA 07:20. por peça                                                     VALOR GANHO POR PEÇA R$ 440.00. por peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;18/11/2020;VALDOMIRO;2020;18/11/2020;18/11/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/20
+13;26/11/2020;2020;JUNIOR;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;5T5202 - CAPA antes feito só no centro de usinagem, foi desenvolvido um processo para fazer nos tornos CNC com o objetivo em reduzir tempo de usinagem e uma maior flexibilidade de maquina;antes o tempo era de 01:45:00 no centro de usinagem, tivemos um ganho de   01:25:00, hoje o tempo no torno é de 20 minutos por peça  (valor ganho por peça =  180 reais);Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;26/11/2020;JUNIOR;2020;26/11/2020;26/11/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/20
+14;10/12/2020;2020;EDSON;Manutenção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1S5331 - foi incorporado uma operação de retifica no diametro interno das peças, com o intuito de reduzir o tempo de brunimento,   isto só pode ser concretizado apos a alteração no eixo da retifica r010, feito pelo Edson Lobo.;antes o tempo de brunimento girava em torno de 50 minutos a 01:10:00 por peça, com a inclusao de mais uma operação ficou com um tempo de 10 minutos na retifica e 10 minutos para brunir;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/12/2020;EDSON;2020;10/12/2020;10/12/2020;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;dez/20
+15;20/01/2021;2021;RICARDO_H;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;9c8418 - no processo do item tem uma operação de retifica por terceiros, com alguns testes foi interno foi  visto que é possivel tirar a peça pronta do torno com o acabento final exigido no projeto.;com a iliminação da operação de retifica por terceiros, temos um ganho no custo do produto de aproximadamente 20 reais por peça, alem de reduzir o prazo  de entraga do produto, em media 7 dias que é o prazo fornesido pelo fornecedor.;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;20/01/2021;VALDOMIRO;2021;20/01/2021;20/01/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/21
+16;20/01/2021;2021;Cleberson;Torno Convencional;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;7t4133 - foi invertido o processo de retifca por terciros,. A primeira operação Após o corte a lazer, já fazer a operação de retifica de faces,;com a inverção do processo, tivemos os seguintes ganhos  menos conssumo de pastilhas de usinagem.  Redução de 40 minutos no processo de usinagem.  Ganho aproximado de 50 reais por peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;20/01/2021;Ricardo H.;2021;20/01/2021;20/01/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/21
+17;25/01/2021;2021;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;2285140 - retirado o prcesso de gravação da gravadoura N001 e uncluido o processo de gravação no programa do centro de usinagem;com isto teremos menos movimentação interna, e redução de riscos de acidende com manuseio  no cetor de gravação;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/01/2021;JUNIOR;2021;25/01/2021;25/01/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/21
+18;25/01/2021;2021;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;2285137 - retirado o prcesso de gravação da gravadoura N001 e uncluido o processo de gravação no programa do centro de usinagem;com isto teremos menos movimentação interna, e redução de riscos de acidende com manuseio  no cetor de gravação;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/01/2021;JUNIOR;2021;25/01/2021;25/01/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/21
+19;25/01/2021;2021;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;2285133 - retirado o prcesso de gravação da gravadoura N001 e uncluido o processo de gravação no programa do centro de usinagem;com isto teremos menos movimentação interna, e redução de riscos de acidende com manuseio no cetor de gravação;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/01/2021;JUNIOR;2021;25/01/2021;25/01/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/21
+20;25/01/2021;2021;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;2285135 - retirado o prcesso de gravação da gravadoura N001 e uncluido o processo de gravação no programa do centro de usinagem;com isto teremos menos movimentação interna, e redução de riscos de acidende com manuseio no cetor de gravação;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/01/2021;JUNIOR;2021;25/01/2021;25/01/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/21
+21;01/02/2021;2021;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;R4168138 - Retiramos uma operação da furadeira para fazer um furo para arraste dentro da operação do torno T020 ou T021 tem ferramenta acionada ;Com o torno fazendo o furo para arraste ganhamos 01:20:00  por peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;01/02/2021;AROLDO;2021;01/02/2021;01/02/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;fev/21
+22;30/11/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;Benchmarking;Sem Informação;Mesa eletromagnetico - com a compra da mesa eletro magnética, vamos ter ganhos em tempo de processo em diversos itens em aço carbono, principalmente em peças cortadas em chapa,;para muitos itens usamos parafusos para fixar as peças, com a aquisição da mesa, vamos ter grandes economias em parafusos chaves e principalmente em tempos de troca;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;30/11/2021;VALDOMIRO;2021;30/11/2021;30/11/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/21
+23;04/02/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;Pinos e eixos acima de 250 mm - para pinos e eixos maior que 250mm de comprimento, são feito furos de centro, mas após passar para o cnc geralmente volta para os convencionais para tirar pontas exedentes, com o objetivo de obter ganhos em qualidade em geral,  acresentamos uma melhoria na descrição da operação de furo de centro... Furar centro e facear de ambos lados obedecendo o comprimento final da peça.;"Com isto teremos os seguintes ganhos.
+Menos movimentação interna.
+Menor prazo de entrega do item.
+Menor riscos de acidente.
+Menos quebra de pastilhas de arraste.
+E para alguns casos podemos aumentar consideravelmente a velocidade de corte e o AP na usinagem do cnc.
+";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;04/02/2021;VALDOMIRO;2021;04/02/2021;04/02/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;fev/21
+24;03/03/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;4629832 - Antes para fabricarmos o eixo 4629832 que utiliza um tempo médio de 12 horas saldando sem parar, era utilizado o mesmo carinho da solda do arco submerso, para agilizar o processo foi desenvolvido um carrinho independente para correr sobre os trilhos, com o objetivo de liberar a máquina de solda submersa para trabalhar simultaneamente em outras frentes de trabalho.;"Agilidade no processo e menos desgaste no carrinho principal da máquina de solda submersa.
+Quando estiver soldando o item 4629832 é possível soldar os eixos 1473309 simultaneamente se necessario.
+";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;03/03/2021;AROLDO;2021;03/03/2021;03/03/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mar/21
+25;09/03/2021;2021;EDSON;Manutenção;Sem Informação;"Projeto
+(Desenho)";Sem Informação;ESP 1011       ESP1012       ESP1013 - foi fabricado um componente (suporte) para fixar o bico de corte do plasma oxicorte, com três articulações, com este suporte vai ser possível fazer chanfros nas laminas bico de pato entre outras laminas de porte maior, sem precisar tirar de cima da mesa do oxicorte.;com este suporte, vamos ter menos vovimentação das laminas, vamos ter menor riscos de acidente e vamos ter uma redução concideravél no tempo de preparação.alem de dar uma melhor qualidade no acabamento;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;09/03/2021;EDSON;2021;09/03/2021;09/03/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mar/21
+26;12/03/2021;2021;Slauco;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;COMP4I4998 - retiramos uma operação do torno convencional pra fazer furo de centro e tiramos mas um processo pra fazer rosca e otimizamos a usinagem nos tornos cnc. ;Agilidade no processo antes era 3 etapas agora e feito em uma com um tempo bem menor ganho 00:20:00 por pecas fora locomoção. ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;12/03/2021;JUNIOR;2021;12/03/2021;12/03/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mar/21
+27;17/03/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"COMPESCM30159C - TUBO QUDRADO DA CERCAS DA PROTEÇÃO 20 X 10,   
+Quando desenvolvido o projeto das cercas de proteção, o processo de furação das barrinhas
+Foi desenvolvido para fazer nas furadeiras, uma a uma,
+Agora desenvolvemos um dispositivo para os centros de usinagem que permite furar 10 barrinhas por vez.
+Na furadeira saia 15 peças por hora, no centro de usinagem sai 90 peças por hora.";"Com este dispositivo tivemos excelentes ganhos,
+Tempo de processo.
+Redução de custo
+Movimentação interna
+Prazo de entrega.
+Redução de riscos de acidentes.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/03/2021;CHRISTOPHER;2021;17/03/2021;17/03/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mar/21
+28;26/03/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"5049100 - o diâmetro externo deste item após usinagem é de 609 milímetros.  O máximo que conseguimos fazer em nossos CNC é 520 milímetros.
+Foi desenvolvido uma ferramenta para o torno T019 E O T016,
+Possibilitando assim então aumentar a capacidade de usinagem em diâmetros nos CNC,
+Com esta ferramenta é possível usinar um diâmetro de 720 milímetros, com o comprimento máximo de 120 milímetro.";Tempo estimado por peça era de 14 horas no convencional, com a nova ferramenta e a transferência para os CNC, ficou 8 horas e 30 minutos por peça, em duas operações.;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;26/03/2021;VALDOMIRO;2021;26/03/2021;26/03/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mar/21
+29;20/04/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"HT7055 GARDA CORPO ESCM31169 ESCADAS - Foi fabricado seis pés retrátil para o setor de soldo.
+Este pé será utilizado como pé de mesa, 
+Servira de apoio para pôr a chapa encima com regulagem que vai
+De 700 mm a 1000 mm,   sera utilizado inicialmente para montagem das escadas, guarda corpo entre outros progetos que serão soldados pora das baias.";"Ergonomia no trabalho
+Menos riscos de acidente
+Facilitar para trabalhar mas de um soldador no mesmo projeto
+";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;20/04/2021;VALDOMIRO;2021;20/04/2021;20/04/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;abr/21
+30;19/04/2021;2021;Slauco;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1157048 - Retiramos uma operação da furadeira para fazer um furo para arraste dentro da operação do torno T020 ou T021 tem ferramenta acionada ;Com o torno fazendo o furo para arraste ganhamos em media 00:12:00 por peca e menos locomoção do item e redução de operação;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;19/04/2021;Slauco;2021;19/04/2021;19/04/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;abr/21
+31;15/04/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Projeto
+(Desenho)";Sem Informação;ARRASTADOR PARA PINOS E EIXOS - no ano de 2019 tínhamos desenvolvidos arrastadores para auxiliar na usinagem de pinos e eixos, com um foco em reutilizar as pastilhas de usinagem já descartadas. Como tem tido sucesso e vem sendo utilizado diariamente na produção, se faz necessário ter mas arrastadores para suprir a demanda.;"Com estes arrastadores vamos ter os seguintes ganhos.
+• Mais tornos fazendo o mesmo tipo de operações.
+• Não teremos gastos com pastilhas especificas para arrastadores,
+• Deixamos de gastar com compra de arrastadores (custo médio por arrastador 3.000)
+• Vamos reutilizar pastilhas de usinagem consideradas sucatas.    OBS: para fabricar os arrastadores foi utilizado sobras de material.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;15/04/2021;CHRISTOPHER;2021;15/04/2021;15/04/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;abr/21
+32;10/05/2021;2021;Slauco;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;217720 - Retiramos duas operação fresa fazer furo de lubrificação e fresar cabeça do pino ;Ganhamos 00:07:00 por peças e mas dois setup a menos e movimentação dos itens. ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/05/2021;Slauco;2021;10/05/2021;10/05/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mai/21
+33;17/06/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"4629833 - Este item foi desenvolvido para usinagem nos tornos convencional, por ter uma geometria externa de difícil fixação,
+Agora chegou um lote considerável, que iria consumir muitas horas no convencional,
+Desenvolvemos uma castanha para pôr nos CNC, com objetivo de reduzir tempo de processo.";"Segue ganhos com a mudança no processamento.
+• Menos movimentação interna
+• Menor risco de acidente
+• Tempo de convencional 1:50:00
+• Tempo CNC 00:30:00
+• No convencional custo $ 140,00
+• No CNC custo $ 64,00";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/06/2021;Slauco;2021;17/06/2021;17/06/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jun/21
+34;24/07/2021;2021;JUNIOR;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1503772   PINO DE SEGURANÇA - Este item tinha duas operações na furadeira fazer furo de lubrificação e furo Ø11,20  agora estamos fazendo tudo em uma operação no centro de usinagem G022 ;O ganho foi eliminar dois processo da furadeira que durava 00:15:00 cada e mas SETUP e locomoção pra outro setor ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;24/07/2021;Slauco;2021;24/07/2021;24/07/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/21
+35;09/08/2021;2021;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"89097840               bucha de bonze - Para esta bucha, processos anteriores tinhamos tres opreção de torno cnc e uma de brunimento.
+Com o objetivo de reduzir transporte interno e ganhar tempo na produção, foi tirado uma operação do torno cnc e eliminado processo de brunimento. Já tirando to torno com a rugosidade exigida no desenho.";"Segue ganhos na mudança no processamento.
+• Um setup de 40 minutos a menos = $ 85,00
+• Menos um operação de 50 minutos de cnc  = $ 120,00
+•  menos uma Operação de brunimento uma hora = $ 90,00
+• Menos desperdício de movimentação
+• Menor risco de batidas nos transportes interno";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;09/08/2021;JELITON;2021;09/08/2021;09/08/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/21
+36;17/08/2021;2021;OSMAR;Serra/Oxicorte/Forja;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;Compht7056L e Compht7056k - viga U que vai na lateral das caçambas, o processo de furação naceu para fazer na furadeira radial,  mudado a operação para ser feito no corte a plasma;"Segue ganhos.
+• Temo da radial 40 minutos
+• Tempo do plasma 1 minto
+• Menos movimentação de um posto para o outro
+• Maior agilidade nos processos.
+• Ganhos por peça em custo $ 45,00";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/08/2021;Henrique_De_Siqueira;2021;17/08/2021;17/08/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/21
+37;25/08/2021;2021;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"789037   porca rabo de andorinha - Para fazer o rasgo da chaveta tipo rabo de andorinha, inicialmente era feito na freza convencional, com uma ferramenta caseira.
+Com o objetivo de melhorar o rendimento e ter mais qualidade no produto,
+Foi desenvolvido junto a o fornecedor de ferramenta (UBRA) uma ferramenta com pastilhas recambiavel.";"Ganhos obtido com a ferramenta e mudança de maquina.
+*Antes no G005 TEMPO = 01:20:00  
+*Maquina atual G023 Centro de usinagem TEMPO = 00:20:00 P/ PÇ
+*Menos movimentação interno
+*Melhor qualidade do produto
+*Ganhos proximo a $ 75 por peça";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/08/2021;RODRIGO_RODRIGUES;2021;25/08/2021;25/08/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/21
+38;17/09/2021;2021;TIME_CIPA;N/A;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"3842286 - Melhorado a operação do corte de dilatação.
+Para realizar a operação do corte, usavamos lixadeiras com um disco muito fino,
+Colocando em risco a integridade física do operador.
+Para eliminar todos e quaisquer riscos de acidente, foi desenvolvido dispositivo para realizar esta operação nas cerras.";"Ganhos obtidos.
+• Não tivemos ganhos financeiros.
+• Redução total de riscos de acidente
+• Melhoria na qualidade do corte.
+";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/09/2021;OSMAR;2021;17/09/2021;17/09/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/21
+39;18/11/2021;2021;JUNIOR;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"comp1v8438
+comp1967370 - estes itens foram melhorados para que sai se
+ pronto do torno cnc usinagem e furação longa    ";ganhos no processo não precisa passar pelo setor do convencional para fazer as furações e o tempo de usinagem dos itens ficou em +- 00:28:00 por peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;18/11/2021;AMARILDO;2021;18/11/2021;18/11/2021;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/21
+40;08/07/2022;2022;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1844396  guias fundidas - retirado a operação de acabamento do setor de acabamento, e incluso esta operação junto com a operação de centro de usinagem, e para gravar a peça teriamos que lixar o bruto para aparecer melhor a gravação, redirecionamos a gravação para uma area usinada e eliminamos a operação de acabamento que fazia a preparação para gravação do codigo.;"Seis minutos a menos por peça, no setor de acabamento
+Menos movimentação interna.
+Redução no prazo o entrega
+";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;08/07/2022;VALDOMIRO;2022;08/07/2022;08/07/2022;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/22
+41;11/07/2022;2022;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1873298  guias fundidas - retirado a operação de acabamento do setor de acabamento, e incluso esta operação junto com a operação de centro de usinagem, e para gravar a peça teriamos que lixar o bruto para aparecer melhor a gravação, redirecionamos a gravação para uma area usinada e eliminamos a operação de acabamento que fazia a preparação para gravação do codigo.;"Seis minutos a menos por peça, no setor de acabamento
+Menos movimentação interna.
+Redução no prazo o entrega
+";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;11/07/2022;VALDOMIRO;2022;11/07/2022;11/07/2022;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/22
+42;10/05/2023;2023;MARCOS_GONÇALVES;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;8x9619 - foi invertido a operação do T020 pela operação do G023, antes de inverter a operação, a peça era feito com arrastador com pastilhas, não era possível por preção de corte porque rodava a peça, só conseguia remover 1,5 milímetro por passada, agora fazendo os furos na face primeiro, mudamos para arrastador de parafuso, com isto podemos por um AP de 2,5 milímetros;antes gastava 26 minutos gora gasta-se 14 minuto nesta operação em questão. Além de ter uma garantia maior na concentricidade da peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/05/2023;CHRISTOPHER;2023;10/05/2023;10/05/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mai/23
+43;09/06/2023;2023;MARCOS_GONÇALVES;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;8x9620 - foi invertido a operação do T020 pela operação do G023, antes de inverter a operação, a peça era feito com arrastador com pastilhas, não era possível por preção de corte porque rodava a peça, só conseguia remover 1,5 milímetro por passada, agora fazendo os furos na face primeiro, mudamos para arrastador de parafuso, com isto podemos por um AP de 2,5 milímetros;antes gastava 26 minutos gora gasta-se 14 minuto nesta operação em questão. Além de ter uma garantia maior na concentricidade da peça;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;09/06/2023;CHRISTOPHER;2023;09/06/2023;09/06/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jun/23
+44;31/05/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"bucha da CZM diversas - Para fabricar as buchas da CZM 	tínhamos muitas dificuldades em segurar o dimensional, devido trabalharmos com a placa três castanhas e peças com paredes muito finas, dentro da maquina peça ficava zerada, mas quando soltava da placa sofria uma ovalizarão de ate 5 centésimos pra mais ou pra menos,
+Foi ondo ocorreu uma perda de todos as peças fabricadas; para corrigir a vocalização foi desenvolvido modelo de pinça com ajuste de 03 centésimos de interferência.";"Não tivemos ganhos e nem perdas relacionadas ao o tempo,
+Timos uma garantia de melhora na performance das peças,
+Ovalizarão que variava até mais ou menos 05 centésimos, atualmente esta variando mais ou menos 02 centésimos, atendendo as exigência do cliente. observação para cada diametro precisa de um pinça excusiva.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;31/05/2023;CHRISTOPHER;2023;31/05/2023;31/05/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mai/23
+45;05/03/2023;2023;OSMAR;Serra/Oxicorte/Forja;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;4629833 - Para este item tinha uma operação de corte a fio que era feito em terceiros, Foi desenvolvido  um dispositivo que permite que o corte seja feito na serra.;"para cortar em terceiros tínhamos um custo de R$ 495,00.
+Trazendo esta operação para fazer na serra, temos um tempo de 19 minutos por corte, reduzimos o custo desta operação para R$ 22,00  tivemos um ganho de R$ 473,00 por peça,
+Conseguimos manter a qualidade e naturalmente teremos mais assertividade no prazo de entrega.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;05/03/2023;CHRISTOPHER;2023;05/03/2023;05/03/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mar/23
+46;10/06/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"183666 - Item grande porte.
+Tinhamos grandes dificuldades em usinar este item, por ser de material hardox e com diametro de 600 milimetros.
+Foi desenvolvido uma castanha para o torno cnc que consegue abranger 98% do diamentro e que garante uma fixação omorgenea.";"Com o desenvolvimento das castanhas, tivemos uma melhor garantia na parte dimensional e uma grande redução na ovalizarão do item depois de usinado.
+Reduzimos tragicamente o risco da peça se soltar das castanhas e provocar acidente.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/06/2023;JELITON;2023;10/06/2023;10/06/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jun/23
+47;27/06/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"comp3331207A - Esta polia é feito em barra para garantir uma precisão no dimensional do diâmetro externo, peça não pode ter emenda de usinagem,
+Mas por ser em barra, não conseguíamos segurar a medida do interno com tolerância de 0 a 0,01 centésimos,
+Para garantir o dimensional do interno, foi aberto mais uma operação, a primeira operação usina externo e desbaste interno e sangra.
+Segunda operação dar acabamento interno mais usinagem do canal.";"Com o acréscimo da operação o tempo continua o mesmo.
+A ganho que tivemos foi a garantia de que a peça fique dentro da tolerância do projeto,
+e Da mais confiança para o operador ne repetibilidade das madidas.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;27/06/2023;JELITON;2023;27/06/2023;27/06/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jun/23
+48;06/07/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;1750035 - Foi removido a operação de acabamento na OP, e esta operação foi incorporado na operação do centro de usinagem;"Ganhos obtidos.
+Menos movimentação entre setores.
+Menor riscos de acidente
+Redução em prazo de entrega";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;06/07/2023;VALDOMIRO;2023;06/07/2023;06/07/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/23
+49;03/07/2023;2023;ADEMIR;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;comp1311650 - Foi removido a operação de acabamento na OP, e esta operação foi incorporado na operação do centro de usinagem;"Ganhos obtidos.
+Menos movimentação entre setores.
+Menor riscos de acidente
+Redução em prazo de entrega
+Custo de acabamento eliminado";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;03/07/2023;ADEMIR;2023;03/07/2023;03/07/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/23
+50;28/06/2023;2023;SILVIO;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"4494589 - Garfo grande porte.
+Esta garfo foi desenvolvido partindo de um material redondo, tinha uma operação de centro de usinagem para esquadrejar a peça antes de escupir.
+Para melhorar o processo e reduzir tempo de centro de usinagem, foi incluso mais uma operação de serra para esquadrejar a peça. ";"Ganhos obtidos.
+De acordo com a simulação no Edgecam, teve uma redução de 3 horas e meia no tempo do centro de usinagem.
+Custo equivalente a  R$ 646,00 
+Além de sobrar horas maquina para execução em outros produtos.
+ ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;28/06/2023;SILVIO;2023;28/06/2023;28/06/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jun/23
+51;07/07/2023;2023;CHRISTOPHER;Torno Convencional;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"5p7470 - quando desenvolvido presávamos de uma em uma com o tempo de 40 segundos por peça, era feito em media 90 peças por hora
+Feito melhoria no dispositivo para fazer de três em três, agora gasta-se os mesmos 40 segundos, mas sai três peças prontas, agora é possível fazer 270 peças por hora em média
+Normalmente lotes de 500 peças.";"Ganhos obtidos.
+65% no tempo do processo de prensa por peça.
+Disponibilidade de máquina,
+E com a melhora no dispositivo, menos riscos de acidente";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;07/07/2023;CHRISTOPHER;2023;07/07/2023;07/07/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/23
+52;10/07/2023;2023;CHRISTOPHER;Torno Convencional;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"5p7464 - quando desenvolvido presávamos de uma em uma com o tempo de 40 segundos por peça, era feito em media 90 peças por hora
+Feito melhoria no dispositivo para fazer de três em três, agora gasta-se os mesmos 40 segundos, mas sai três peças prontas, agora é possível fazer 270 peças por hora em média
+Normalmente lotes de 500 peças.";"Ganhos obtidos.
+65% no tempo do processo de prensa por peça.
+Disponibilidade de máquina,
+E com a melhora no dispositivo, menos riscos de acidente";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/07/2023;CHRISTOPHER;2023;10/07/2023;10/07/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/23
+53;19/07/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"COMP7M0672 - Para este item COMP7M0672 quando desenvolvido era feito parte prensado e tinha que ajustar na marreta.
+Agora foi feito um dispositivo macho e femia, fazendo a prensagem de uma vez sem precisar retrabalhar";"Ganhos.
+Uma qualidade melhor,
+Redução de 10 minutos no tempo por peça = R$ 18,70 por peça
+Menor risco de acidente.
+Menos movimentação entre setores";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;19/07/2023;DENERSON;2023;19/07/2023;19/07/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/23
+54;25/07/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"452448 - Para usinar a operação do ângulo superior do item 4524948, (incerto) teríamos que por no quarto eixo do centro de usinagem,
+Para reduzir o tempo de preparação e fazer a usinagem nos centro de usinagem sem o auxílio do quarto eixo, desenvolvemos um dispositivo simples e que garante a mesma qualidade.";"Ganhos obtidos.
+Menor tempo de preparação, de 50 minutos ficou em 30 minuto.
+Menor risco de acidente na movimentação do quarto eixo.
+Podemos por mais mas AP (profundidade de corte) garantindo que as peças fiquem livre de vibração de usinagem.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/07/2023;JEFFERSON;2023;25/07/2023;25/07/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/23
+55;01/08/2023;2023;CIRINEU;CNC;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"COMP2H5035 - Para usinar o COMP2h5035 (colar forjado) após forjado,
+Tinha um desbalanceamento devido a excentricidade deslocamento dos colos,
+Que tornava o processo lento e perigos na operação de torno, para eliminar este problema, foi inserido mais uma operação de torno .";"Ganhos obtidos
+Garantia de que a peça não escape das castanhas.
+Menos chances de perdas operacional.
+Menor riscos de acidente.
+Economia nos incertos de usinagem. ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;01/08/2023;CIRINEU;2023;01/08/2023;01/08/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/23
+56;08/08/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Projeto
+(Infra)";Sem Informação;"PORTICO BAIXO - Com o enclausuramento da prensa para atendimento da norma NR12, acabou limitando o acesso do operador em executar algumas operações que envolve prensagem de itens mais pesados,
+Principalmente na hora de retirar a peça prensada, momento em  que exigia muito esforço físico do operador.
+Com o objetivo de minimizar o esforço humano, foi desenvolvido um pórtico baixo com articulação que possibilitando alinhamento das mesas, e facilita retirada da peça de dentro da prensa.";"Ganhos obtidos.
+Menor riscos de acidente por lesões.
+Maior agilidade na descarga da máquina.
+Menos fadiga do operador por esforços repetitivos.
+E por fim acaba tendo um rendimento melhor na entrega do item para a próxima operação.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;08/08/2023;CHRISTOPHER;2023;08/08/2023;08/08/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/23
+57;10/08/2023;2023;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"BUCHAS RECARTILADAS - para as buchas recartilhadas, tínhamos grandes dificuldades para medir com súbitos
+devido os espaçamentos nos paces.
+Com o objetivo de melhorar dimensional e reduzir desvios e incertezas dimensional, foi solicitado ao setor de desenvolvimento para reduzir a quantidade de ranhuras assim aumentando a área de contato para os súbitos, para facilitar medir com instrumentos que temos, e assim foi feito. COLUNA B IMAGEM DO ANTES E DEPOIS.";"Ganhos obtidos.
+Menor desgastes no incerto de usinagem.
+Redução no tempo de usinagem, isto vai variar muito dependendo do tamanho da bucha.
+Facilidade para medir, tanto na usinagem quanto na retifica.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/08/2023;JOÃO;2023;10/08/2023;10/08/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/23
+58;25/08/2023;2023;JOÃO;Engenharia de Produtos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"184357 - O item 184357 quando desenvolvido era de bitola redondo maciço, como foi melhorando a demanda o João mudou para fundido.
+Com esta mudança na MP, foi necessário elaborar um dispositivo para usinagem nos tornos cnc.
+Para fazer o dispositivo, só utilizamos retalho de chapa consumimos 20 minutos de oxicorte e uma hora de torno. ";"Ganhos obtidos.
+Eliminado dois processos de serra, tempo = 01:00:00
+Eliminado uma operação de centro de usinagem tempo = 01:20:00
+Foi reduzido o tempo da operação de torno cnc tempo = antes 01:20:00 tempo atual = 00:35:00
+Tempo atual do centro de usinagem = 00:40:00";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/08/2023;VALDOMIRO;2023;25/08/2023;25/08/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/23
+59;20/11/2023;2023;VALDIR;Logística;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"comp1311650 - foi melhorado o processo de usinagem do comp1311650 na segunda operação na face traseira da peça, antes era feito de uma em uma com um tempo de 5 minutos por peça.
+Desenvolvemos um dispositivo para fazer de quatro peças por vez, tempo total das quatro peças ficou em 6 minutos, ou seja, agora sai com 1:30 minuto por peça";"Ganhos obtidos.
+Redução do tempo peça que era de 5 minutos, ficou em 1:30.
+Escariamento dos furos que era feito manualmente em outra operação, agora sai pronto da maquina na mesma operação. ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;20/11/2023;VALDIR;2023;20/11/2023;20/11/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/23
+60;24/11/2023;2023;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"94TP001XL - O ITEM,
+Era usinado em três operações,
+Foi desenvolvido um dispositivo roscado que permiti tirar a peça em 2 operação.";"Ganhos obtidos.
+Tempo de uma preparação media 25 minutos.
+Reduziu 2 minutos por peça na operação.
+Garantia de 100% da concentricidade dos colos usinados.
+Menos movimentação do item no setor. ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;24/11/2023;JELITON;2023;24/11/2023;24/11/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/23
+61;30/11/2023;2023;SIMÃO;Fresa;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"R423994 - Quando desenvolvido o R423994 OSSO DE CACHORRO, a etapa dos furos de graxeira era feito na fresa no sentido horizontal, tínhamos muitas dificuldades para fazer, e ainda tinha que trabalhar com auxílio de uma empilhadeira para fazer apoio e não tombar a fresa.
+  O como o objetivo de melhorar o processo usando os recursos interno surgiu a ideia de fazer um poço no piso da fábrica do lado da radial.
+Agora é possível fazer a peça na furadeira radial,  ";"Ganhos obtidos.
+Tempo anterior por peça 4 horas em média.
+Tempo atual 2 horas.
+Menor risco de acidente.
+Fácil manuseio.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;30/11/2023;SIMÃO;2023;30/11/2023;30/11/2023;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;nov/23
+62;08/07/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"9M2417 - Foram atualizados os programas de usinagem incluindo a retifica, 
+foi excluida a operação da R009 e foi atualizado o roteiro de fabricação";"Peça sai pronta torno com todos os colos retificados;
+Menor tempo no processo de retifica;
+Maior garantia de processo;
+Menos disperdício de movimentação da peça;
+eliminou a variação de medidas e necessidade de liberação de desvios por conta dos 0,03";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;08/07/2024;JELITON;2024;08/07/2024;08/07/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/24
+63;02/07/2024;2024;TIME_ENG._PROC.;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"3387446 -  Melhoria aplicada para toda familia de suportes; 
+Foram excluídas duas operações de fresa convencional;
+ Foi eliminado a necessidade de movimentação de peças entre um setor e outro;
+ Foram feitas algumas melhorias no cabeçote para possíbilitar a utilização no centro de         usinagem;
+Foi ajustado o roteiro de fabricação do item. 
+";"Processo centralizado em apenas um setor/máquina; 
+Eliminação do disperdício de movimentação; 
+Dispositivo de centro de usinagem com três tombos; 
+Ganho de tempo em relação ao processo antigo
+Tempo ganho: 00:50:55
+Aplicável em toda familia de suportes e harpas ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;02/07/2024;VALDOMIRO;2024;02/07/2024;02/07/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/24
+64;10/04/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"2W2006 - Foi mudado de centro de usinagem para o torno cnc;
+Foi desenvolvido um dispositivo para usinagem de 5 peças;
+trocou-se o conceito de fresamento para torneamento;
+Foi criado um programa para o torno cnc; ";"Uma única operação que saem 5 peças prontas;
+Totas as peças com a mesma medida no raio interno;
+Processo estabizado;  
+Tempo de peça no centro de usinagem 1 min. p/ 1 peça
+Tempo de peça no torno CNC  1 min. p/ 5 peças ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/04/2024;JELITON;2024;10/04/2024;10/04/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;abr/24
+65;07/04/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"7T4145 - Foi mudado a fixação da peça;
+foi criado um novo programa CNC; 
+Usinagem de dois novos modelos castanhas; 
+(castanha com ampliação de pega já no raio da peça)  ";"Duas etapas de retifica; 
+Cast. 346 op.30  retificando face e Ø interno por inteiro;
+cast. 245 op. 35 retificando face e os dois Ø externos dois colos e o Ø; 
+regulado a pressão da placa com 0,5 bar de pressão nas placas evitando a ovalização dos colos usinados;
+Total do tempo usinado OP. 30 - 15 min. 
+Total do tempo usinado OP. 31 - 35 MIN. ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;07/04/2024;JELITON;2024;07/04/2024;07/04/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;abr/24
+66;26/04/2024;2024;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"8P1182 - Para melhorar o processo e garantir a qualidade do produto, 
+foi mudado a MP de fundido para forjado ";"Redução prazo de entrega  ( tempo de entrega de fofo 30-40 dias);
+Material forjado, fica em perfeitas condições;
+operação de pré-desbaste foi eliminada ( 15 min.); 
+Material forjado não apresenta pososidade; 
+eliminamos os tempos de máquina perdida por detecção de falha no material durante a usinagem;";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;26/04/2024;VALDOMIRO;2024;26/04/2024;26/04/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;abr/24
+67;24/05/2024;2024;RODRIGO_RODRIGUES;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"3105480 - Corte da peça foi direcionada para o setor de serra( C002);
+Foi utilizado uma serra 3/4 3500 ( Sul corte); 
+foi utilizado um avanço de .25";"Menor tempo de corte; 
+menos disperdicio de movimentação, pois elimina a necessidade de acabamento da peça; 
+Melhor custo beneficio (custo x hora máquina) 
+Custo das fresas = R$118,98 
+Custo da C001 = R$ 88,00 
+Diminuição do tempo de corte da peça ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;24/05/2024;CHRISTOPHER;2024;24/05/2024;24/05/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mai/24
+68;10/01/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"BUCHAS RECARTILHADAS  - Foi mudado o programa CNC; 
+Foi incorporado o processo de recartilho na operação de torneamento; ";"Peça sai do torno somente faltando a operação de furo de lubrificação;
+Peça não fica mais aguardando máquina disponível para usinagem do recartilho;
+redução de movimentações desnecessárias pela fábrica (na mesma operação que torneia já recartilha na mesma máquina.  ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/01/2024;JELITON;2024;10/01/2024;10/01/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/24
+69;23/05/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"COMP0139 - Foi eleiminado uma operação, agora ela é feita somente em uma;
+Foi elaborada uma castanha específica;
+Foi ajustado o programa CNC;
+Foi eliminado um programa de tridmensional;";"Usinagem completa da Panela em apenas uma operação;
+Apenas inspeção de tridmensional, processo antigo isnpecionava em duas;
+maior agilidade na produção e liberação do item;
+maior organização no local de trabalho, pois as peças ficavam depositadas em três  caixas, hoje ficam apenas em duas, brutas e usinadas ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;23/05/2024;JELITON;2024;23/05/2024;23/05/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mai/24
+70;20/01/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"PINOS COM PERFIL CÔNICOS  - Foi criado um programa CNC para as máquinas T021 E T020;
+Confecção de um dispositivos com vários parafusos de ajustes, que possíbilitam a utilização do mesmo dispositivo  para mais de um modelo de dispositivos ";"Peça agora será fixada no dispositivo e contra- ponto;
+A usinagem agora será completa e já faz a retifica do perfil em ângulo e do Ø central numa fixação somente; 
+Tempo de ciclo em média leva em torno de 00:20:00; 
+Desvio de qualidade REDUZIDOS a praticamente zero ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;20/01/2024;JELITON;2024;20/01/2024;20/01/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jan/24
+71;09/08/2024;2024;OSVALDO;Manutenção/Solda;Sem Informação;"Projeto
+(Infra)";Sem Informação;"Tanque de armazenamento De óleo  - O tamque de armazenamento de óleo foi revestido com concreto ipermebiabilizante; 
+Foram colocadas caixas de descarte de óleo gotejante;
+Foi implantado um medidor para verificar o nivel do óleo no tanque;
+foi elaborado um funil para evitar derrame de residuos no momento do descarte; 
+no setor de retifica foi implantado uma caixa de metal para descarte da água usada na limpeza da fábrica; ";"Ganho ambiental, pois raramente os óleos de descarte tem contato com a rede pluvial através da melhorias;
+Com o medidor, evita-se que o tamque transborde; 
+Com o funil aumenta-se o raio do descarte evitando que derrame no solo; 
+O revestimento do tanque com concreto ioermeabilizante, evita que haja infiltrações de residuos químicos no solo.  ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;09/08/2024;OSVALDO;2024;09/08/2024;09/08/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;ago/24
+72;25/05/2024;2024;TIME_MANUTENÇÃO;Manutenção;Sem Informação;"Projeto
+(Infra)";Sem Informação;"Instalação de Tubos porta cabos  - Foram adquiridos tubos porta-cabos; foi feito um investimento de R$ 3.110,46 em tubos porta- cabos;
+Foram instalados em todas as máquinas que necessitavam da melhoria T001, T002, T003 e T005;
+Melhoria foi vinculada a NR12, por oferecer risco ao operador.";"Riscos físicos eliminados 100%  (NR12);
+Retrabalho com manutenção corretiva ( em relação a cabos) eliminados; 
+riscos dos cavacos fita enroscar e romper os cabos e tubos hidraulicos também foram elimindados; 
+Melhorou a disponibilidade de máquina;
+Desafogou a equipe da manutenção em relação ao convencional; 
+aspecto visual 100% melhorado com a ação 5S";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;25/05/2024;EDSON;2024;25/05/2024;25/05/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;mai/24
+73;10/09/2024;2024;TIME_ENG._PROC.;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"1473309 / 1473310 - Foi feito um estudo técnico pela equipe de engª de processo com o intuito de melhorar a fixação de peças com haste cilindrica + flange como por ex: 1473309/10 
+Foi desenvolvido um dispositivo através de placa de tornos com aperto em apenas um ponto.
+";"Eliminamos a necessidade de á cada peça ter que apertar e frouxar 3 parafusos no gabarito;
+Eliminou-se a necessidade de repassar as roscas do dispositivos e/ou trocar os parafusos;
+garante melhor repetibilidade de processo; 
+menor dependência do operador para centralizar a peça;
+menor risco de acidentes no manuseio de chaves para apertar a peça; 
+eliminado a necessidade de aperto de três parafusos.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/09/2024;VALDOMIRO;2024;10/09/2024;10/09/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/24
+74;16/09/2024;2024;FABIO;Controle de Qualidade;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"2297378 - Foi elaborado um programa de tridimensional;
+Foi eliminado a necessidade de locação do braço;
+ A inspeção passou a ser feita internamente com nossos metrologistas, dispensando a necessidade de técnicos externos;
+eliminou-se a necessidade de aguardar o o técnico do braço. ";"Inspeção feita pelos nossos metrologistas ( controle do absoluto do processo);
+Lead time menor;
+dispensa do custo do aluguel do braço; 
+Redução de tempo de inspeção  
+Com o braço - custo R$ 1370,00  tempo : 02:00:00
+Tempo de inspeção na Tridimensional : 01:00:00";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;16/09/2024;FABIO;2024;16/09/2024;16/09/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/24
+75;02/09/2024;2024;RODRIGO_RODRIGUES;Engenharia de Processos;Sem Informação;"Projeto
+(Infra)";Sem Informação;"Esteira rolante da serra disco tub. - Foi instalado roldanas (roletes) na esteira; 
+Foi aumentado o comprimento da esteira; 
+Foi aumentado a largura da esteira ";"Melhor ergonomia ao operador, pois as roldanas facilitam a movimentação das MP'S; 
+Maio capacidade de barras aguardando corte; 
+Maior capacidade de armazenamento de barras pós corte; 
+Menos ida do operador ao estoque de MP ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;02/09/2024;RODRIGO_RODRIGUES;2024;02/09/2024;02/09/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/24
+76;02/09/2024;2024;RODRIGO_RODRIGUES;Engenharia de Processos;Sem Informação;"Seis Sigma/ 
+Estudo de Processo";Sem Informação;"Problemas com ""bichos"" nas soldas  - Foi entrado em contato com o fornecedor de gás para estudar os problemas; 
+Foi estipulado uma rotina para inicio de novos cilindros; ex: PURGAR o gás, distância do bocal até o local da solda;
+Medir a vazão de gás na troca de cilindro; 
+Para os insumos, foi estudado junto aos fornecedores e foi substituidos alguns insumos para alta temperatura; 
+desenvolvimento de anti-respingo ";"Melhor estabilidade no processo de solda; 
+Maior confiaça dos operadores; 
+Maior acompanhamento técnico por parte dos fornecedores; 
+Menos troca de insumos com aplicação dos mesmos  para alta temperatura;
+Menos retrabalhos por conta de bichos e falhas; 
+Menos retrabalhos para retirar os respingos das peças; 
+Até a data melhoria ainda estávamos acompanhando a questão do gás, e ainda estamos atentos para quaisquer desvios que afetem a qualidade. ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;02/09/2024;RODRIGO_RODRIGUES;2024;02/09/2024;02/09/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;set/24
+77;18/07/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"COLAR  - Foi elaborado um programa cnc, para que os rasgos sejam feitos no centro de usinagem;
+Foi eliminado o disperdicio de movimentação, pois já tem um processo de centro de usin. e tinha que seguir para a fresa convencional para a usinagem dos rasgos; 
+Está sendo desenvolvido um disco pastilhado, para melhorar ainda mais a qualidade e o tempo  dos rasgos; 
+Fixação no 4° eixo do centro de usinagem. ";"Melhor fixação da peça; 
+Menor tempo de usinagem dos rasgos; 
+melhor repetibilidade dos rasgos; 
+além do tempo de usinagem, foi eliminado o desperdicio de movimentação;";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;18/07/2024;JELITON;2024;18/07/2024;18/07/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/24
+78;17/07/2024;2024;TIME_ENG._PROC.;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"2G6377 -RODA  - Para melhorar o processo e garantir a qualidade do produto, 
+foi mudado a MP de fundido para forjado ";"Redução prazo de entrega;
+Material forjado, fica em perfeitas condições;
+Material forjado não apresenta pososidade; 
+eliminamos os tempos de máquina perdida por defeitos no fundido;
+100% das peças em perfeitas condições de usinagem;
+Garantia de qualidade do produto e satisfação do cliente.  ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;17/07/2024;VALDOMIRO;2024;17/07/2024;17/07/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;jul/24
+79;15/10/2024;2024;EDSON;Manutenção;Sem Informação;"Projeto
+(Infra)";Sem Informação;"Paineis elétricos
+ R001 - R005 - R011 - Foi implantado o padrão NR12 com :
+Monitoramenrto de porta;
+ Inversor de frequência para controlar os motores; 
+ Comando  24v 
+Foram trocados os disjustores; 
+Foram trocados os contatores; 
+Foi trocado dos cabos;
+Foi colocado um relê de segurança. 
+Será aplicado para outras máquinas R005 - R011";"Melhor aspecto visual; 
+Menor risco de insendio; 
+Menor risco de acidentes;
+Menor risco de queimar os motores
+Troca de todos os cabos; ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;15/10/2024;ALEX_RODRIGUES;2024;15/10/2024;15/10/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;out/24
+80;10/10/2024;2024;EDSON;Manutenção;Sem Informação;"Projeto
+(Infra)";Sem Informação;"Restauração das Empilhadeiras  - Foi feita a restauração completa nas empilhadeiras; 
+Dos investimentos:
+DIPROTEC DISTRIB. R$927,00 (MATERIAIS);
+SERVIÇO DE FUNILARIA E PINTURA - R$3.500,00 (MO);
+NOVA FASE EMPILHADEIRAS - R$ 130,00 (ADESIVOS)
+Total: R$ 4557,00 ( por máquina) ";"Ganho foi no aspecto visual
+com a restauração completa as empilhadeiras ficaram em condições de nova na parte externa. ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;10/10/2024;ALEX_RODRIGUES;2024;10/10/2024;10/10/2024;Registros MIRO - Reprovado por não ser uma melhoria, e sim uma manutenção e zelo de máquina.; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;out/24
+81;26/10/2024;2024;AROLDO;Retífica;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"REAP. DE MP 6T8801 - 7T1331 -  SERÁ REUTILIZADO OS GALÕES DE ÓLEO VAZIO; 
+ MAIOR DISPONIBILIDADE DE MP;
+ MP É CORTADA NA PRENSA; P001 COM AUX. DE UM
+ ADESIVOS MANTEM O MESMO PADRÃO. ";"CUSTO ZERO COM MP; 
+ DISPONIBILIDADE DE MP NA FÁBRICA; 
+ MENOS MATERIAL DESCARTADO 
+POIS PARTE DELE É RECICLADO INTERNAMENTE. 
+ ELIMINADO O GASTO COM MP.";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;26/10/2024;AROLDO;2024;26/10/2024;26/10/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;out/24
+82;28/10/2024;2024;JELITON;Engenharia de Processos;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"8X1834 -  Foi elaborado um programa CNC, para o centro de usinagem; 
+ Foram unificadas e centralizadas as operações 20 e 25 onde eram feitas nas fresas convencionais; 
+ Foi atualizado o roteiro de fabricação das peças com as operações transferidas para o centro de usinagem; ";"Menos tempo de setup, pois a peça é preparada somente uma vez; 
+ Melhor garantia de qualidade na usinagem; 
+Possibilidade de andar com maior velocidade na ferramentas
+ Maior garantia de dimensional; 
+ Roteiro ajustado para fazer a operação 20 e 25 em apenas uma que passou a ser a operação 20.  ";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;28/10/2024;JELITON;2024;28/10/2024;28/10/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;out/24
+83;30/10/2024;2024;DIOGO;Administração/Produção;Sem Informação;"Inovação 
+Disruptiva";Sem Informação;"Melhorias na tela KANBAN SPR WEB, que informa a produção diária devido dificuldades que os lideres têm para acesso em relatórios de produção no SCADA (terceiro), no SPR e no FLOW:
+1ª Legenda das cores 
+2º Colocar as máquinas que estão em operações.
+3º Aparecer no card a operação que estão sendo executada 
+4º para as OFs paradas Mostrar o motivo da parada
+5ª Possibilidade de atualizar a tela automaticamente 
+6º Mudar o campo TIPO para MÁQUINA 
+7º colocar na tela de pronto as OFs que foram finalizadas após as 5 horas 
+8º Corrigir cadastro dos setores J e L 
+Obs: ver com João se foi separada por questão de centro de custo 
+9º Fazer correção, cards estão ficando duplicados
+10° colocar um filtro “líder”";"1° Maior de suporte a alguns erros na tela devido SPR ter mais dependência da Roseli, maior facilidade de suporte e menor custo do que tela do SCADA (terceiro);
+2° Informações mais confiáveis devido SPR WEB ter acesso ao banco de dados direto;
+3° Informação sobre o item que está sendo feito em tempo real;
+4° Alerta visual para peças que com prioridades mais importantes (cards com cores);
+5° Praticidade e simplicidade no uso da ferramenta (SPRWEB).
+6° Atualização instantânea da  ferramenta (SPRWEB).";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;30/10/2024;DIOGO;2024;30/10/2024;30/10/2024;Sem Informação; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;out/24
+84;06/12/2024;2024;VALDOMIRO;Administração/Produção;Sem Informação;"Quick Win
+(Mel. Ráp.)";Sem Informação;"4501497 - Foi desenvolvido junto a engª de produto e o fornecedor de ferro fundido uma matéria prima com o perfil deslocado, com as dimensões próximas do produto final acabado, ficando com menos material para retirar da peça.
+? Foi elaborado um modelo de com o perfil excêntrico; 
+? Foram revisados os desenhos das buchas 
+? Será revisado os processos de fabricação na ordem excluindo duas operações.";"? Houve redução no prazo de entrega da peça; 
+? Menor tempo de processo de usinagem; 
+? Redução do custo da matéria prima; 
+? Redução no consumo de insertos, em média de 50%
+? Maior disponibilidade de máquina.  
+Custo da materia prima antiga: R$ 2898,00 por peça;
+Custo da materia prima atual: R$ 2065,00 por peça.  
+Tempo de peça no processo antigo: média de 15 horas  
+Tempo de peça no processo atual: 5 horas                        
+Redução de 19% custo da MP. 
+Redução de 70% custo de usinagem";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Sem Informação ;06/12/2024;VALDOMIRO;2024;06/12/2024;06/12/2024;Registros MIRO; R$ -   ; R$ -   ;2;2;1;1;1;1;1;1;1;1;Roteiro de produção / Folha de processo;Concluído;0 - 5;0;dez/24
+85;13/01/2025;2025;DIOGO;Administração/Produção;PCP;Inovação Disruptiva;Sem Informação;"DESENVOLVIMENTO DE MODELO MATEMÁTICO DE SEQUÊNCIAMENTO DE OF: Solicitar ao TI para criar um sequenciamento de OFS na tela KANBAN SPR WEB, que irá ordenar as OFS de forma automática através de um modelo matemático com regras e calculos pré definidos pelos responsáveis BIZA, principalmente pelo PCP.
+
+Exemplo de regras: Data de entrega gera uma pontuação, valor do pedido gera outra pontuação, prioridade da OF outra porntuação, etc; todas essas pontuações são multiplicadas gerando uma pontuação total para colocar a OF em uma sequência específica.";"1° Informações mais confiáveis devido SPR WEB ter acesso ao banco de dados direto e não ser feito manual;
+2° Agilidade no momento de criar o sequenciamento devido ser automático através de calculos;
+3° Facilidade para criação de programação mensal BIZA;
+4° Gestão visual dos cards sequenciados;
+5° Atualização instantânea da  ferramenta (SPRWEB).
+6° Informação do sequenciamento e inteiração com mais informações como saber o item que está sendo feito em naquele momento
+7° Praticidade e simplicidade no uso da ferramenta (SPRWEB).";Aprovada; R$ -   ;R$ 26.208,00; R$ -   ;R$ 12.348,00; - ;"Os custos são referente ao custo da mão de obra (R$21/h) do Analista Sr. Do PCP considerando 3,5horas por dia pra fazer o seq. de OF (hoje leva ± 1,5horas apenas no CNC) + 27 horas por mês referente a programação
+
+Após melhoria seriam do Analista Sr. Do PCP apenas 1hora por dia pra fazer o seq. de OF (irá levar ± 30 minutos apenas no CNC) + 16 horas por mês referente a programação";20/01/2025;DIOGO;2025;31/03/2025;23/05/2025;-; R$ -   ;R$ 13.860,00;713;15;1;1;1;1;3;4;4;1;-;Em Aberto;30;149;jan/25
+86;13/03/2025;2025;DIOGO;Administração/Produção;Recebimento;Benchmarking;Sem Informação;"Estruturar uma etapa de Pré-Recebimento automatizado para registrar antecipadamente as informações de Notas Fiscais via coletor, antes da conferência física e entrada definitiva do material no sistema.
+Problemas Atuais no Recebimento: Alto tempo gasto na conferência manual de NFs, Erros de digitação nos dados da nota no sistema, Falta de visibilidade prévia do que está chegando (impacta PCP, COMPRAS e Qualidade), Dificuldade de rastreabilidade em casos de não conformidade.
+
+Como: através da implantação de coletores nos mesmos moldes do GHT (logística) Tela já desenvovida pela TI (Roseli) porém precisa ser testada e se necessário aprimorada após início do uso.";"1° Melhorar controle de chegada de materiais na BIZA;
+2° Redução de tempo de entrada por NF em até 50%;
+3° Rastreabilidade dos recebimentos em tempo real de forma sistêmica, aumentando a segurança da informação;
+4° Possibilitar acesso e visualização do PCP e COMPRAS no sistema, das Matérias Primas que já passaram pelo recebimento de materiais;
+5° Contribui na acuracidade do estoque, eliminando erros de digitação.
+6° Melhor identificação de materiais (5S, evita Perdas, etc)";Aprovada; R$ -   ; R$ -   ; R$ -   ; R$ -   ;R$ 5.000,00;"Custo muito hipotético, visto que um recebimento feito de forma equivocada acaba acarretando em retrabalhos, que podem envolver dois ou mais setores, e algumas mão de obras desnecessárias, gerando desperdício e má gestão do tempo.
+
+Uso de etiquetagem no processo de recebimento, ajudará na eliminação de custo com compras dupicadas par itens que são tratados como MP e BC o mesmo produto. Ex: Tinta para peças BIZA e/ou outras finalidades.
+
+ANALISAR SE COMPENSA NESTE CASO CALCULAR CUSTO DESTA MÃO DE OBRA.";19/03/2025;DIOGO;Em andamento;16/05/2025;;Projeto foi ventilado em 2023 (teve participação da Beatriz, Victor, Diogo H., com apoio do Reginaldo porem acabou ficando parado e agora teve retorno por mim); R$ -   ; R$ -   ;128;2;1;1;1;2;2;4;4;1;Roteiro de produção / Folha de processo;Em Aberto;30;90;mar/25
+87;13/01/2025;2025;EBERSON;Administração;Gestão de Resíduos;"Projeto
+(Infra)";Sem Informação;Adequação do armazenamento de resíduos sólidos metálicos, devido riscos (logística das sucatas de oxicorte), custos, atendimento a requisito legal. Adequando para novo local que será próximo às MP no barracão das serras considerando distâncias principalmente de uso do Henrique do Oxicorte devido riscos aplicados a essa logística.;"1° Redução da distâncias de movimentação, principalmente de uso do Henrique do Oxicorte.
+2° Redução de riscos aplicados a logística com empilhadeira e chapas.
+3° Maior facilidade para transporte de coleta do fornecedor (fornecedor também aprovou o local).
+4° Reorganizações do local antigo da caçamba liberando mais espaços para embalagens de aço da expedição.
+5° Caçamba com telhado móvel para evitar chuvas (requisito legal que poderia gerar multas).
+6° Redução de Stress em uma atividade que ficava em envolvimento com outras áreas por usarem do mesmo espaço diariamente se encontrava muitos obstaculos no trajeto
+
+RESUMO: Tivemos ganho em 75% do tempo, ou seja, redução de 75% dos custos também, fora custos aplicados ao uso do gás por exemplo e até de possíveis multas ambientais que poderíamos ter também antes da mudança, por isso justificou o investimento com o telhado.";Implementada; R$ -   ;R$ 1.320,00; R$ -   ;R$ 330,00;R$ 5.000,00;"Custo de mão de obra devido movimentação do colaborador, pois a movimentação é diária e com tempo médio de 10 minutos, considerando custos médio aplicados de R$15/hora * 2 vez por dia * 22 dias/mês * 12 meses/ano = Total R$1320
+
+Pós melhoria: tempo médio de 2,5 minutos, considerando custos médio aplicados de R$15/hora * 2 vezes por dia * 22 dias/mês * 12 meses/ano = Total R$330";13/01/2025;ALEX_RODRIGUES;2025;04/03/2025;04/04/2025;Atraso na finalização devido atrasos na área de COMPRAS; R$ -   ;R$ 990,00;509;2;4;4;1;4;4;1;1;1;BOM 407;Concluído;30;81;jan/25
+88;09/04/2025;2025;OSVALDO;Manutenção/Solda;CNC;"Projeto
+(Infra)";Sem Informação;"1-Melhorar coleta do óleo descartável da máquina CNC (do skimmer)
+
+2-Melhorar reabastecimento do óleo aproveitável do carrinho de cavaco no CNC.
+Obs.: eles devem ter recipientes diferentes e procedimentos diferentes
+
+Como: Criar um recipiente de óleo descartável do Skimer móvel com algum vasilhame pra facilitar no descarte e nomear o recepiente do óleo aproveitavel de colocar nas máquinas pra não contaminar o mesmo. Identificar carrinhos com plaqueta por máquinas onde  devem ser usados";"1° Maior aproveitamento do óleo usável que é recolhido do carrinho de cavaco (atualmente desperdiça muito desse óleo)
+2° Menos custo na compra de óleo para reabastecer as máquinas e menos custo com a retirada de óleo descartado
+3° Menos movimentação da auxiliar de CNC, pois será descartado apenas o óleo do Skimmer
+4° Melhoria na ergonomia da auxiliar devido recepiente do óleo descartado ser móvel
+5° Mitigação de risco de acidente ambiental, pois recentemente tivemos acidente devido quantidade alta de descartes houve um transbordo na bomba subterrânea da caçamba";Aprovada;R$ 88.219,00; R$ -   ;R$ 28.929,00; R$ -   ;R$ 1.000,00;"Custo atual: Considerada a média de 12.000 L de óleo solúvel que estavam sendo descartados anualmente conforme estivamtiva levantada com a liderança do setor (Leandro) que em tese era uma quantidade de 50 L por dia (2,5 galões azuis) que anulamente fecha a quantidade total. Multimplicando esta quantidade pelo valor pago  por litro para descarte de resíduos contamindados (0,50 centavos) R$ 6.000,00, que considerando ainda 20% descartado equivalente a 2.400L, teremos uma economia de R$ 4.800,00.
+
+Quanto ao custo de compra de óleo, teremos uma redução de gasto de 58 mil.
+
+Investimento: Custo de mão de obra devido contrução do carrinho e dos recepientes + Coletas a cada 900 litros
+Planilha de cálculos:
+https://hidrau.sharepoint.com/:x:/s/BIZA/EREAjiOaVRNDkh0leSjbGEMBDPXJwYUBQYdoEjl5sbJEww?e=UpriXR";09/04/2025;OSVALDO;Em andamento;30/04/2025;;N/A;R$ 59.290,00; R$ -   ;8682;60;1;3;1;4;3;1;1;4;BOM 451;Em Aberto;30;63;abr/25
+89;09/04/2025;2025;HENRIQUE_DE_SIQUEIRA;Serra/Oxicorte/Forja;Oxicorte;"Design 
+Thinking";Sem Informação;"Criar informações sobre valores de economia com uso de retalhos no OXICORTE (indicador) e sobre custos com uso indevido de chapas a mais do roteiro
+
+Como: solicitar ao TI pra baixar relatório do SPR dos valores de transferência feito pelo Henrique Siqueira, transferindo saldo do empenho para armazém MP são os ganhos de reaproveitamento e quando ele faz o inverso no sistema são os usos indevidos.
+Obs.: tanto o ganho quanto o uso a mais devem ser medidos";"1° Acompanhar ganhos com retalhos
+2° Acompanhar deperdícios mau uso de MP
+3° Evidênciar os resulatdos positivos e negativos do setor para dar possibilidade de outras melhorias e ganhos";Em Análise;; R$ -   ;; R$ -   ; R$ -   ; - ;;FERNANDO_TRYFERIS;Em andamento;31/05/2025;;; R$ -   ; R$ -   ;384;2;1;1;1;4;3;4;4;1;-;Em Aberto;30;63;abr/25
+90;01/04/2025;2025;DANILO;Administração;Serra;Projeto (SCRUM/CASCATA);Sem Informação;Melhorar a documentação e padronização do processo de apontamento das Serras;"1° Padronização
+2° Acesso fácil para os colaboradores às informações e orientações do processo
+3° Dar subsídio á liderança cobrar os colaboradores com mais precisão
+4° Maior assertividade dos apontamentos (visto que tivemos uma queda de ± 13% após encerramento do projeto de apontamento)";Aprovada;; R$ -   ;; R$ -   ; R$ -   ;;11/04/2025;DANILO;Em andamento;31/05/2025;;; R$ -   ; R$ -   ;16;2;1;1;1;1;2;1;4;1;Projeto - Padronização e documentação dos apontamentos do setor de CORTE;Em Aberto;30;71;abr/25
+91;01/04/2025;2025;DANILO;Administração;Oxicorte;Projeto (SCRUM/CASCATA);Sem Informação;Melhorar a documentação e padronização do processo de apontamento das Gravação;"1° Padronização
+2° Acesso fácil para os colaboradores às informações e orientações do processo
+3° Dar subsídio á liderança cobrar os colaboradores com mais precisão
+4° Maior assertividade dos apontamentos (visto que tivemos uma queda de ± 13% após encerramento do projeto de apontamento)";Aprovada;; R$ -   ;; R$ -   ; R$ -   ;;11/04/2025;DANILO;Em andamento;31/05/2025;;; R$ -   ; R$ -   ;16;2;1;1;1;1;2;1;4;1;Projeto - Padronização e documentação dos apontamentos do setor de CORTE;Em Aberto;30;71;abr/25
+92;01/04/2025;2025;DANILO;Administração;Gravação Número;Projeto (SCRUM/CASCATA);Sem Informação;Melhorar a documentação e padronização do processo de apontamento do acabamento;"1° Padronização
+2° Acesso fácil para os colaboradores às informações e orientações do processo
+3° Dar subsídio á liderança cobrar os colaboradores com mais precisão
+4° Maior assertividade dos apontamentos (visto que tivemos uma queda de ± 13% após encerramento do projeto de apontamento)";Aprovada;; R$ -   ;; R$ -   ; R$ -   ;;11/04/2025;DANILO;Em andamento;31/05/2025;;; R$ -   ; R$ -   ;16;2;1;1;1;1;2;1;4;1;Projeto - Padronização e documentação dos apontamentos do setor de CORTE;Em Aberto;30;71;abr/25
+93;01/04/2025;2025;DANILO;Administração;CNC;Projeto (SCRUM/CASCATA);Sem Informação;Melhorar a comunicação entre os operadores CNC com a liderença e demais setores de apio, através de rádio de comunicação.;"1º Melhoria no tempo de entrega de Ferramentas.
+2º Melhorar na Reprogramação de peças.
+3º Reduzir a parada de Máquinas.
+4º Atendimento ágil a probemas.
+5º Troca ágil de Máquinas.
+6º Entrega de equipamentos de medição.
+7º Melhoria no tempo de respostas da Manutenção.";Em Análise;;R$ 7.797,79;;R$ 1.641,64;R$ 1.281,00;" Custo do operador ter que buscar o instrumento de medição que demora por operador em médias 4 min e 30 S/ Ferramentas que demora 5 min.
+Com o rádio serão economizados 07 min e 30s ";11/04/2025;DANILO;Em andamento;31/05/2025;;; R$ -   ;R$ 6.156,15;458;7;1;4;2;2;1;1;4;1;Projeto - Andon;Em Aberto;30;71;abr/25
+94;28/03/2025;2025;MATHEUS_DE_ANDRADE;Administração/ Logística/ PCP;PCP;"Quick Win
+(Mel. Ráp.)";Sem Informação;Viabilizar geração de OF para itens de garantia;"1°-Obter controle sobre o processo de atendimento a fabricação de itens de GARANTIA;
+2°-Obter registro das operações e possibilitar geração de consumo de MP corretamente, inclusive insumos de produção;
+3°-Possibilitar rastreio do pedido inicial que está sendo atendido com a garantia em questão;
+4°-Acompanhar o pedido durante os processos produtivos;
+5°-Garantir um melhor e mais eficaz planejamento;";Aprovada; R$ -   ;;;; R$ -   ; Apenas mão de obra da TI ;17/04/2025;MATHEUS_DE_ANDRADE;Em andamento;;;; R$ -   ; R$ -   ;128;2;1;1;1;1;4;4;4;1;-;Em Aberto;30;75;mar/25
+95;17/04/2025;2025;LAURA;Administração;Administração;"Quick Win
+(Mel. Ráp.)";Sem Informação;Desenvolver relatório no sistema SPR para viabilização de indicadores de SAVING;"1° Possibilitar o registro e levantamento dos possíveis ganhos com orçamentos, negociações e pesquisas de mercado nas compras padrões da BIZA.
+2° Viabilizar a visão gerencial dos gastos com a criação do indicador de SAVING.";Em Análise; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Apenas mão de obra da TI ;;LAURA;Em andamento;;;; R$ -   ; R$ -   ;8;2;1;1;1;1;1;1;4;1;-;Em Aberto;30;55;abr/25
+96;17/04/2025;2025;RICARDO_H;Administração/Produção;Administração;Benchmarking;Para itens BIZA que dependem de peças HT como componentes, é feita OC manual.;"Melhoria: Startar a compra dos componentes no mesmo momento da colocação da ordem de compras do item principal .
+
+Como: Cadastra BOM “ Bill of material + fornecedor homologado “ na tela do SPR da matriz , e sempre que for colocar a ordem de compras do principal já estoura a compra dos componentes que não estão disponíveis no estoque na sua totalidade . Processo similar ao utilizado pelo time do Plinio no processo de montagem dos sistemas de abastecimento e combate a incêndio. (Falar com Roseli ou Serginho)";"1° Tempo de colocação da ordem de compra dos componentes vai ser mais rápida e simultânea a compra do principal .
+2° - Compras serão via sistema e não solicitações via email .
+3° - A Union já conseguira avaliar a compra como um todo .
+4- muitas X transferimos o estoque total da matriz deixando o estoque zerar , com esta mudança comprador já avalia a quantidade total do componente a ser comprado , ou seja , quantidade a ser usada como montagem e quantidade a permanecer no estoque para venda como part number avulso .";Em Análise; R$ -   ;;;;;;;LAURA;Em andamento;;;; R$ -   ; R$ -   ;32;2;1;1;1;1;1;4;4;1;-;Em Aberto;30;55;abr/25
+97;17/04/2025;2025;JESIEL;Logística/Expedição;Expedição;"Quick Win
+(Mel. Ráp.)";Sem Informação;Desenvolver sistemática, padrão e processo para emissão de NF de itens lançados como PERDA, para viabilizar o ressarcimento de ICMS ;Recuperação de parte dos valores pedidos com peças refugadas no processo de fabricação.;Aprovada;; R$ -   ;; R$ -   ; R$ -   ; Verificar se todos os itens refugados entram nesta conta, e o quanto representaria em relação a 2024 considerando despesas e ressarcimentos ;;JESIEL;Em andamento;;;; R$ -   ; R$ -   ;8;2;1;1;1;1;1;1;1;4;-;Em Aberto;30;55;abr/25
+98;25/04/2025;2025;RICARDO_H;Administração/Produção;Logística;"Quick Win
+(Mel. Ráp.)";Peças de baixa complexidade são enviadas para controle de qualidade percorrendo em torno de 95 metros e na maior parte das vezes este retorna para setor de gravação e ou estoque intermediário percorrendo novamente em torno de 100 metros vindo contra os desperdícios do Leandro Manufacturing .;"Reativar posto de Inspeção IR001fazendo com que estas peças de baixa complexidade já sejam inspecionadas no ato do recebimento pelo propio setor de recebimento.
+
+COMO:";"1) reduzir risco de acidentes visto que reduziremos a frequência de movimentação de peças no corredor 
+2) Reduzir o gasto de energia com paleteira elétrica e ou esforço manual caso transporte seja feito com paleteira 
+3) implementação da ferramenta Lean ( gráfico espaguete ) reduzindo um um desperdícios que é a movimentação.
+4) Peça chegará mais rápido no próximo posto e menos pessoas envolvidas .
+5) agrupando todos ganhos reflita no Custo da mercadoria Vendida .
+
+";Em Análise; R$ -   ;; R$ -   ;; R$ -   ;;;DANIEL;Em andamento;;;; R$ -   ; R$ -   ;16;2;1;2;1;1;4;1;1;1;-;Em Aberto;30;47;abr/25
+99;30/04/2025;2025;JESIEL;Logística/Expedição;Logística;"Quick Win
+(Mel. Ráp.)";"As gaiolas de ferro são armazenadas no tempo, ocupando área útil do pátio.
+Layout do estoque de uso e consumo na área de secagem das peças.";"Verticalizar estoque de gaiolas de ferro embaixo da cobertura de embalagem.
+Anexar prateleira de embalagens de uso e consumo junto a prateleira das gaiolas. ";"Liberar área externa do pátio para melhor utilização, acondicionar as gaiolas no seu lugar próprio e identificado, aumento da vida útil das gaiolas, impedir contaminação de óleo das gaiolas no solo, prevenir que água da chuva fique parada nas gaiolas e melhorar a apresentação no visual dos visitantes uma vez que as gaiolas ficam na porta de entrada. 
+Melhor utilização do espaço de secagem de pintura, organização do layout, classificar embalagens usando metodologia ABC entre estoque e expedição, separar as obsoletas. ";Em Análise; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ;;;;Em andamento;;;; R$ -   ; R$ -   ;8;2;1;1;1;1;4;1;1;1;-;Em Aberto;30;42;abr/25
+100;30/04/2025;2025;LOURIVAL;Logística/ Motorista;Logística;"Quick Win
+(Mel. Ráp.)";O veículo fica em local não apropriado,com risco de danos.;Providenciar um local adequado, coberto,com demarcação ,assim tanto o veículo quanto os colaboradores estarão mais seguros.;Maior segurança para os colaboradores e também ao veículo.;Aprovada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ;;;;Em andamento;;;; R$ -   ; R$ -   ;24;2;1;3;1;1;4;1;1;1;-;Em Aberto;30;42;abr/25
+101;05/05/2025;2025;GUILHERME_STACHELSKI;Consultoria;Pintura;"Projeto
+(Infra)";Uso de ganchos para calço nos varais de secagem de pecas na pintura.;Implementar travas nas rodas do varal de secagem de pecas evitando possíveis acidentes, quedas de pecas, e melhorando ergonomia do colaborador.;"1. Evitar acidentes
+2. Melhorar ergonomia
+3. Evitar problemas de qualidade nas pecas decorrentes de quedas";Em Análise;; R$ -   ;; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;24;2;1;4;3;1;1;1;1;1;-;Em Aberto;30;37;mai/25
+102;05/05/2025;2025;DIOGO;Administração/Produção;Gestão de Resíduos;"Projeto
+(Infra)";"Caçamba recebe o descarte de cavaco, porem junto acaba recebendo pequenos acúmulos de líquidos (acúmulos no cavaco), então esse óleo escorre da caçamba para a bomba subterrânea.
+Obs.: Até ano passado devido erro operacional eles não esvaziaram o carrinho de cavaco e com isso a quantidade de resíduos líquidos juntos ao descarte de cavaco era bem maior, agora é o momento perfeito dessa melhoria.";"Produzir uma caixa de contenção para colocar a caçamba dentro para que os poucos resíduos escorridos da caçamba escorram nessa caixa e depois sejam coletados com o uso da bomba pneumática caso tenha algum acúmulo.
+Para essa melhoria o piso do local atual da caçamba terá que ser feito um pequeno trabalho de correção e de nivelamento.";"1° Diminuição de risco de acidente ambiental, principalmente no solo;
+2° Melhoria no acompanhamento da quantidade de líquido do cavaco;
+3° Melhoria na forma de coleta de resíduos do cavaco;";Em Análise;; R$ -   ;; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;32;2;1;1;1;4;2;1;1;2;-;Em Aberto;30;37;mai/25
+103;06/05/2025;2025;LEONARD;Engenharia de Processos;Engenharia de Processos;"Quick Win
+(Mel. Ráp.)";Processo de usinagem feita internamente ;Terceirização de usinagem  ;Referente ao item COMP1134390, temos um custo interno de usinagem de R$5612,00 e com a terceirização passou para R$5000 mantendo a qualidade BIZA  ;Em Análise;; R$ -   ;; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;16;2;1;1;1;2;1;1;1;4;-;Em Aberto;30;36;mai/25
+104;08/05/2025;2025;FERNANDO_TRYFERIS;Administração/Produção;Gestão de Resíduos;"Quick Win
+(Mel. Ráp.)";Descarte de resíduo de óleo de cozinha sendo feito junto com outros líquidos contaminados que tem custo para destinação e coleta.;Buscar oportunidades de descarte com outros fornecedores, viabilizando uma geração de receita, ou mesmo não gerando receita garantir que não tenhamos custo para coleta e destinação.;"1-Redução no custo de resíduos líquidos destinados;
+2-Eliminção do risco de acidente (Colaboradores da cozinha transportam óleo muitas vezes quente em um panelão de 18L em média, por mais ou menos 60 metros);
+3-Definição de um vasilhame específico para armazenamento de óleo no dia a dia, eliminando ter este resíduo armazenado dentro do ambiente da cozinha;
+4-Geração de receita, considerando que deixará de pagar para descartar mais de 700L anuais, e começará a receber por esta quantidade que será vendida para empresa responsável ambientalmente pela destinação;";Em Análise;R$ 360,00; R$ -   ; R$ -   ; R$ -   ;R$ 325,00;"Custo de 6 horas de mão de obra para fabricação da contenção: R$ 31,00 por hora, e para o total de 6 horas trabalhadas, R$ 186,00
+
+Fabricação de uma caixa de contenção para galão de armazenagem do óleo no custo de R$ 85,00
+
+Compra de um funil para facilitar o armazenamento no valor de R$ 54,00";Fabricação de uma caixa de contenção para acomodar tambor de 50L que armazenará o óleo usado da cozinha;FERNANDO_TRYFERIS;Em andamento;30/06/2025;;O impacto da melhoria não será apenas visando custo, mas também 5S, Segurança e Meio ambiente.;R$ 360,00; R$ -   ;98;1;1;3;1;4;3;1;1;2;SS 7495 / OS 8842;Em Aberto;30;34;mai/25
+105;20/05/2025;2025;LAURA;Administração;Logística;Benchmarking;Atualmente quando é necessário fazer retirada de produtos precisamos solicitar dinheiro do caixinha para pagar estacionamentos/pedágios;Colocar tag “sem parar/veloe etc” nos veículos da Biza. ;"Economia de tempo: evita filas em pedágios e estacionamentos.
+Controle de gastos: relatórios detalhados por veículo ou motorista.
+Melhora na logística: mais agilidade nas rotas.
+Gestão centralizada: uma fatura única para todos os veículos.
+Acesso facilitado em estacionamentos.";Em Análise; R$ -   ; R$ -   ; R$ -   ; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;4;2;1;1;1;1;1;2;1;1;-;Em Aberto;20 - 30;21;mai/25
+106;22/05/2025;2025;JESIEL;Logística/Expedição;Compras;"Projeto
+(Infra)";Relógio de consumo de água contabiliza a passagem de ar. ;Instalação de bloqueador de ar no relógio de água.;Redução de gastos na conta de água.;Em Análise;; R$ -   ;; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;4;2;1;1;1;1;1;1;1;2;-;Em Aberto;nov/20;19;mai/25
+107;22/05/2025;2025;JESIEL;Logística/Expedição;Compras;"Quick Win
+(Mel. Ráp.)";Aluguel do estacionamento, manutenção da grama. ;"Renegociar o aluguel, reduzir a área alocada pela metade. 
+Alugar somente o que se usa.";Redução de custos no aluguel e manutenção. ;Em Análise;; R$ -   ;; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;16;2;1;1;1;2;4;1;1;1;-;Em Aberto;nov/20;19;mai/25
+108;22/05/2025;2025;JORGE_BECKER;Administração;Administração;"Quick Win
+(Mel. Ráp.)";"Hoje mandamos plastificar algumas coisas em fornecedores com um custo relativamente alto.
+Exemplos: Todo ano fazemos as impressões dos mapas de riscos (20 unidades de A3 a ± R$11,00 cada, ou seja, total de R$220,00), plaquinhas de 5S com gambiarra (sem plastificação), documentos SGI e Brigada de incêndio (últimos 12 meses somente de A4 fizemos R$562 + os DOCS em A3 que foi em média de R$)";"Comprar máquina para plastificarmos papeis A4 e A3 na BIZA:
+• Máquina plastificadora A3 e A4, custa em média R$220 (Para 100 impressões, 2,20 por impressão)
+• Material por exemplo pra A4 (plástico 220 x 307) com 100 unidades custa em média R$160 (R$1,60 cada folha)
+• Guilhotina em media R$100,0
+? Total de investimento de R$380";"? Redução de custo, com poucos documentos plastificados internamente já paga o custo da máquina
+? Facilidade por ser feito por nós mesmos
+? Mais documentos e plaquinhas 5S plastificados
+? Evita saída da empresa para ir em papelaria (além de tempo, fadiga, diminui os riscos de segurança";Em Análise;R$ 562,00;R$ 400,00;R$ 160,00; R$ -   ;R$ 480,00;"SOFT Saving é em relação a DOCS que poderíamos fazer mas que normalmente não fazíamos por não ter, mas agora vamos fazer tendo a máquina aqui.
+HARD Saving já está bem detalhado na descrição da melhoria.
+Investimento é o valor da máquna + o material pra um ano + guilhotina";23/05/2025;JORGE_BECKER;Em andamento;23/06/2025;;-;R$ 402,00;R$ 400,00;14;1;1;3;1;1;3;1;1;2;-;Em Aberto;nov/20;19;mai/25
+109;22/05/2025;2025;RICARDO_H;Administração/Produção;Administração;"Projeto
+(Desenho)";Atualmente as chapas de Quard e de espessuras maiores  são armazenadas horizontalmente uma sobre a outra , quando precisamos usar uma que esta embaixo precisamos remover todas que estão em cima . Além do tempo gasto também temos riscos em relação a segurança em virtude da movimentação dentro da área de estocagem ;"1) Fazer projeto tipo gaveteiro em que possamos puxar a gaveta com a chapa a ser retirada e posteriormente guardar . Necessário avaliar em função do peso .
+
+2) Verificar possibilidade de armazenamento vertical , tipo que o pessoal utiliza em marmorarias para armazenamento das placas de granito.";"1) Economia de tempo na movimentação do material .
+2) Organização do setor /5S
+3) Redução risco de acidentes .
+";Em Análise; R$ -   ;; R$ -   ;;;;;;Em andamento;;;; R$ -   ; R$ -   ;96;2;2;3;1;1;4;1;1;2;-;Em Aberto;nov/20;19;mai/25
+110;23/05/2025;2025;SIMÃO;Fresa;Refeitório;"Projeto
+(Infra)";Escada do refeitório sem iluminação adequada;Colocar um sensor pra acender a luz enquanto decemos a escada o sensor só aciona quando subimos .;Mais segurança.  Evitar quedas na escada;Aprovada; R$ -   ; R$ -   ; R$ -   ; R$ -   ;;;;;Em andamento;;;Aberto Solicitação de serviço 7572.; R$ -   ; R$ -   ;32;2;2;4;1;1;1;2;1;1;-;Em Aberto;nov/20;18;mai/25
+111;23/05/2025;2025;LUIZ_GUILHERME;Controle de Qualidade;Compras;Benchmarking;Atualmente, é feita a compra de itens/objetos/dispositivos somente no fatuaramento por CNPJ, e faturamento por boleto, o que sempre causa custo desnecessário, como por exemplo a compra de um nível digital, que na compra em lojas onlines custaria R$100,00 e por essa limitação do processo foi e é comprado por R$800,00. Alem do fato de haver no mercado, em lojas online itens que agregariam muito no processo de controle de medição ou para outro fim na fábrica.;Criar uma sistemática ou algum outro meio de conseguir realizar compras  de sites, online pelo processo do setor de Compras.;redução de custo, melhoria geral de processos diversos.;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;8;2;1;1;1;1;1;1;1;4;-;Em Aberto;nov/20;18;mai/25
+112;26/05/2025;2025;ALEX_RODRIGUES;Manutenção ADM;Manutenção;"Projeto
+(Desenho)";Hoje para manutenções em altura acima de 3 metros é utilizado a gaiola de movimentação que vai acoplada a empilhadeira, e também a uma escada antiga que é utilizado na brunidora, a escada utilizada na brunidora já não atende as exigências de segurança, e a empilhadeira necessita de 2 pessoas para realizar o trabalho, sendo 1 operador de empilhadeira e 1 téc. manutenção.;"Fabricar 1 escada de segurança conforme já fabricamos para a vale. 
+
+Link arquivos Escada BIZA:
+1: https://hidrau.sharepoint.com/:b:/s/BIZA/ERbgyJfYVONLv4kQYiHankwBrqbk-DQ5-gv113xoDLceHA?e=8Gmr9y
+
+2: https://hidrau.sharepoint.com/:b:/s/BIZA/ETqaFpwNHhJIqyEfysr4jsMBtmiYcKbcwmlQyu_a664ROA?e=TOMaD8
+
+3: https://hidrau.sharepoint.com/:b:/s/BIZA/EUNch4S3nWBNuU7HsL1_bIEB4htxsJZ-cQT31po-qv7j3g?e=0BPOjL
+
+4: https://hidrau.sharepoint.com/:b:/s/BIZA/EdJK9hUNglZFqc92nLy8RBoBle9Bj0PwmhKt4rkoHPxnIg?e=ZXCcyt";"1-Mais segurança para o técnico por se tratar de uma escada que atende as normas de segurança;
+2-Excluir o risco de acidente com a empilhadeira e a gaiola que hoje é um trabalho arriscado tanto para o técnico quanto para os colaboradores próximos;
+3-Excluir a necessidade de 1 pessoa a mais na realização do trabalho (operador de empilhadeira);
+4-Realização dos trabalhos mais rápida pela praticidade que a escada oferece, agilidade na movimentação e no acesso a parte superior dela.";Em Análise; R$ -   ;; R$ -   ;;R$ 7.250,00;" Custo de fabricação interna de uma escada de 12 degraus com guarda corpo e material reforçado: R$ 7.250,00;
+
+Custo para compra de uma escada no mesmo padrão, porém em alumínio o valor reduz. ";28/05/2025;ALEX_RODRIGUES;Em andamento;;;; R$ -   ; R$ -   ;16;2;2;4;1;1;1;1;1;1;-;Em Aberto;nov/20;16;mai/25
+113;26/05/2025;2025;VALDOMIRO;Administração/Produção;Retífica;"Projeto
+(Desenho)";quando o operador das retificas esta realizando processo de brunimento em camisa de cilindros, e se o cilindro tiver mais de um metro de altura, ele precisa de auxilio de uma escada, mas a escada que ele normalmente usa, não fornece segurança adequada, tem um grande risco de tombamento por ser muito estreita.;fazer uma melhoria na escada disponível, ou fabricar uma escada nova com uma abertura angular na parte inferior para evitar o tombamento lateral e garantir a segurança do colaborador.;reduzir drasticamente o risco de acidente por tombamento da escada.;Em Análise; R$ -   ;; R$ -   ;; R$ -   ; Para esta melhoria existe a opção sugerida de remanejar uma escada padrão que não está em uso mais, e que atende as especificações do local onde se encontra a necessidade desta melhoria. ;28/05/2025;;Em andamento;;;; R$ -   ; R$ -   ;16;2;2;4;1;1;1;1;1;1;-;Em Aberto;nov/20;16;mai/25
+114;28/05/2025;2025;HENRIQUE_CARVALHO;Engenharia de Produtos;Grêmio / Áreas comuns;"Quick Win
+(Mel. Ráp.)";"""Atualmente, há alguns suportes fixados na parede do prédio em frente ao bicicletario que estão sendo usados para pendurar sacolas vazias.""";"""Remover os suportes ou instalar um recipiente adequado para descarte de lixo.""";Descarte correto.;Em Análise; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ; Não há custos calculados visto que se trata apenas de uma reorganização  do local. ;28/05/2025;FERNANDO_TRYFERIS;Em andamento;30/06/2025;;Sem custos calculados, pois necessita apenas de ação simplpes de retirada dos itens do local; R$ -   ; R$ -   ;96;2;4;1;1;3;4;1;1;1;SS 7535;Em Aberto;nov/20;14;mai/25
+115;29/05/2025;2025;HENRIQUE_CARVALHO;Engenharia de Produtos;Administração;"Quick Win
+(Mel. Ráp.)";"""A luz da escada que dá acesso à cozinha e à administração permanece acesa por longos períodos durante o dia.""";"""Implantar sensores de presença contribui para a redução do consumo de energia.""";Diminuir o consumo de energia. ;Aprovada;;;;;;;;;Em andamento;;;Aberto Solicitação de serviço 7572.; R$ -   ; R$ -   ;144;2;1;2;1;3;2;3;1;2;-;Em Aberto;nov/20;13;mai/25
+116;15/01/2025;2025;JELITON;Engenharia de Processos;Torno Convencional;"Projeto
+(Desenho)";"Item COMP4T4774 - Processo de Usinagem do diâmetro interno pós solda feito no torno convencional.
+Processo muito lento, tempo médio de 30 a 32 horas, difícil de dar um acabamento que fique bom, e por este motivo temos que deixar uma carga maior de sobremetal para o processo de brunimento, tornando  o processo de brunimento muito longo também, media de tempo para brunimento entre 50 e 55 horas. ";"Desenvolver ferramentas especiais com as capacidades necessarias para o processo ser feito no CNC NEWAY T024:
+1 - Fabricação de uma luneta com capacidade de 500 milímetros no diâmetro.
+2 - Fabricação de uma ferramenta para diâmetro interno com capacidade de 600 milímetros no comprimento.
+3 - Fabricação de um VDI, (suporte para prender a ferramenta) com fixação tipo morsa, para tirar vibração da ferramenta";"1 - Otimizar recursos
+2 - Aumentar a produtividade (reduzir tempo no processo de usinagem e de brunimento)
+3 - Melhorar o acabamento interno, ovalização, riscos, conicidade e ovalização.
+4 - Reduzir riscos de acidente
+5 - Evitar quebra de máquinas (Torno convencional)";Aprovada;;;;;;"Antes da melhoria, processo de usinagem = 30 a 32 horas.
+Depois da melhoria, processo usinagem cnc = 6 a 6:30 horas.
+Antes da melhoria, Processo de brunimento = 50 a 55 horas.
+Depois da melhoria, processo de brunimento = 12 a 14 horas.
+Menos risco de acidente no processo de usinagem
+Maior disponibilidade de maquina
+Redução de custo e Redução no prazo de entrega.";;VALDOMIRO;Em andamento;30/03/2025;;Ideia que surgiu em 2024, mas que acabou sendo executada e registrada em 2025 com data inicial de Janeiro; R$ -   ; R$ -   ;1024;2;1;4;4;1;2;4;1;4;N/A;Em Aberto;30;147;jan/25
+117;30/05/2025;2025;LUCAS;RECEPÇÃO;Manutenção;"Quick Win
+(Mel. Ráp.)";Na sala de sono masculina, as janelas pequenas são cobertas por papelão que não tampam totalmente a luz, além de ficar esteticamente feio.;Aplicar um adesivo de vidro escuro (completamente preto ou escuro como um Insulfilm) para impedir a luz e ficar mais agradável.;Melhor qualidade de descansando para os colaboradores além de melhor organização e estética.;Em Análise;;;;;;;;FERNANDO_TRYFERIS;Em andamento;;;; R$ -   ; R$ -   ;32;2;4;1;1;1;4;1;1;1;-;Em Aberto;nov/20;12;mai/25
+118;30/05/2025;2025;MATHEUS_DE_ANDRADE;Administração/ Logística/ PCP;Retífica;Benchmarking;Atualmente é possível apontar uma OF por vez mas existem setores como a pintura e retífica, que trabalham em várias OFs ao mesmo tempo, tendo assim um tempo de produção realizado por peça incoerente.;Criar uma maneira de fazer múltiplos apontamentos  de OFs a partir do aplicativo de apontamento, a fim de conseguirmos informações mais coerentes. ;#NOME?;Em Análise;;;;;;;;DANILO;Em andamento;;;; R$ -   ; R$ -   ;72;2;1;1;1;1;1;3;4;3;-;Em Aberto;nov/20;12;mai/25
+119;01/06/2025;2025;FRANCIELE;Central de Ferramentas;Central de Ferramentas;"Quick Win
+(Mel. Ráp.)";"Hoje o registro de quebra de ferramentas é armazenado em uma planilha no Excel e enviada via e-mail a cada ocorrência.
+Essas informações vistas de outra maneira, talvez possam vir a ter uma tratativa adequada e com impacto nos custos.";"Criar uma forma de unificar os dados possibilitando um acesso ao histórico em uma mesma base com indicador.
+
+DASHBOARD com informações temporais e outras formas de segmentação de dados:
+
+https://hidrau.sharepoint.com/:x:/s/BIZA/EdzgFi0q9gVOkKnt3wvXYrQBWCX9ukelEemCUKnO56l_rA?e=YQThk6";"1° - Fácil visualização ao histórico de quebras;
+2° - Acompanhamento em tempo real e fácil acesso (Planilha online);
+3° - Melhor gerenciamento das possíveis causas;
+4° - Comparativo por período e demandas;
+5° - Inovação na informação automatizada;";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ;R$ 180,00; Contabilizar horas dispensadas procurando informações, e horas otmiadas com o uso de Dashboards ;;FERNANDO_TRYFERIS;2025;06/06/2025;06/06/2025;N/A; R$ -   ; R$ -   ;32;2;1;1;1;1;4;1;4;1;-;Concluído;0 - 5;4;jun/25
+120;02/06/2025;2025;HENRIQUE_DE_SIQUEIRA;Serra/Oxicorte/Forja;Oxicorte;"Gestão de 
+Mudanças";A reposição do gás nitrogênio e feito por um cilindro só ;Fazer a reposição do gás nitrogênio por cesta com 12 cilindros.;Uma segurança a mais por não armazenar um cilindro dentro da fábrica e maior rendimento ;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;128;2;2;4;1;1;4;2;1;1;-;Em Aberto;06/out;9;jun/25
+121;02/06/2025;2025;HENRIQUE_DE_SIQUEIRA;Serra/Oxicorte/Forja;Oxicorte;"Gestão de 
+Mudanças";A reposição do gás GLP é feita por um cilindro P45;Fazer a reposição do gás GLP com cilindros maiores no caso com P90;Maior rendimento e menor custo ;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;96;2;2;2;1;1;3;4;1;1;-;Em Aberto;06/out;9;jun/25
+122;02/06/2025;2025;HENRIQUE_DE_SIQUEIRA;Serra/Oxicorte/Forja;Oxicorte;"Projeto
+(Infra)";Hoje a cada programação (arranjo) que é feita para o oxicorte é enviada pelo pendrive ;Fazer esse envio de programação por rede ou cabo óptico ;Além de facilitar a produção também tem o ganho de tempo ;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;16;2;2;1;1;1;1;4;1;1;-;Em Aberto;06/out;9;jun/25
+123;02/06/2025;2025;HENRIQUE_DE_SIQUEIRA;Serra/Oxicorte/Forja;Almoxarifado;"Quick Win
+(Mel. Ráp.)";Hoje toda a vez que nós vamos dar baixa em algum BC (consumíveis de máquina)tem que abrir o APP e pesquisar o BC até aparecer o número para baixar ;Criar uma lista de favoritos para cada usuário ou máquina ;Transformara o processo mais rápido e ágil ;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;24;2;2;1;1;1;1;3;2;1;-;Em Aberto;06/out;9;jun/25
+124;02/06/2025;2025;HENRIQUE_DE_SIQUEIRA;Serra/Oxicorte/Forja;Logística;"Projeto
+(Infra)";O estoque de tela de aço e de paletes não estão em um lugar adequado;Fazer uma prateleira coberta para colocar os dois em um lugar de fácil acesso e perto onde eles são utilizados ;Melhor organização e mais fácil acesso ;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;32;2;1;4;1;1;4;1;1;1;-;Em Aberto;06/out;9;jun/25
+125;02/06/2025;2025;HENRIQUE_CARVALHO;Engenharia de Produtos;Grêmio / Áreas comuns;"Quick Win
+(Mel. Ráp.)";O local onde ficam as bicicletas não possui iluminação à noite, dificultando a retirada e pode ocorrer possível acidentes.;Instalar uma lâmpada com sensor de presença.;Com o objetivo de evitar possíveis acidentes.;Em Análise;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;48;2;3;4;1;1;2;1;1;1;-;Em Aberto;06/out;9;jun/25
+126;03/06/2025;2025;HENRIQUE_CARVALHO;Engenharia de Produtos;Grêmio / Áreas comuns;"Quick Win
+(Mel. Ráp.)";Não há informações disponíveis sobre o status das ideias mencionadas.;Implementar atualizações contínuas nesta tela, permitindo que todos os usuários acompanhem em tempo real o progresso de cada etapa no desenvolvimento das ideias.;Todos os usuários terão visibilidade clara das etapas já concluídas, das em andamento e das próximas ações.;Em Análise; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ;;;;Em andamento;;;; R$ -   ; R$ -   ;64;2;4;1;1;1;2;1;4;1;;Em Aberto;06/out;8;jun/25
+127;04/06/2025;2025;DENERSON;Tubulação;Grêmio / Áreas comuns;Benchmarking;Não ha.;Um espaço dedicado a leitura e onde o colaborador poderá emprestar livros e ou manuais para enriquecimento intelectual.  O ESPAÇO seria voltado a divulgação de capacitações e treinamentos de assuntos  diversos ao crescimento pessoal e assustos diversos.;Aumento da capacidade intelectual, senso critico e colaborativo, questões de auto gestão e beneficios a vida social do colaborador. ;Em Análise; R$ -   ; R$ -   ; R$ -   ; R$ -   ;;;;;Em andamento;;;; R$ -   ; R$ -   ;8;2;4;1;1;1;1;1;1;1;;Em Aberto;06/out;7;jun/25
+128;05/06/2025;2025;ALEXANDER;Engenharia de Produtos;Pintura;Benchmarking;As tintas utilizadas para pintura de peças BIZA atualmente são de apenas um fornecedor, no caso da ROGEL.;"Identificadas duas marcas de tinta para pintura de peças BIZA, Falcão e Sherwin Willians – como pontos de melhoria, na questão de preço, rendimento e performance.
+1 - Falcão Amarelo Caterpilar;
+2 - Sherwin Willians Amarelo Segurança
+
+A ideia é substituir as tintas da Rogel por estas duas.
+
+Com essa alteração eliminaremos a aplicação do primer, tempo de operação, armazenamento de produtos químicos e de uma demão.";"1 - Redução de Custo; 
+2 - Redução de produtos químicos e processo, na eliminação de uso do primer;
+3 - Melhorar a performance da Pintura;";Em Análise;;;;;;;;ALEXANDER;Em andamento;;;; R$ -   ; R$ -   ;0;2;1;1;4;3;2;1;1;;;Em Aberto;06/out;6;jun/25
+129;05/06/2025;2025;ALEXANDER;Engenharia de Produtos;Pintura;Benchmarking;Processo atual de preparação mínima para pintura de peças BIZA, não atende o suficiente aos requisitos de qualidade conforme padrão CAT.;"Já estamos utilizando o produto da Henlau – Decap3A para melhoria na questão de limpeza e aderênciada tinta.
+
+1 - Criar Plano de Preparação para limpeza e Aderência da tinta em peças BIZA.
+Criar sistema de preparação de superfície com DECAP3 + Passivador para melhorar a ancoragem da tinta com uso de estopa.
+
+Vamos incluir o Passivador / Henlau. Atualmente não existe.";"1 - Redução de retrabalhos;
+2 - Satisfação do cliente;
+3 - Melhorar a performance da Pintura;";Em Análise;;;;;;;;ALEXANDER;Em andamento;;;; R$ -   ; R$ -   ;8;2;1;1;4;1;1;1;1;1;;Em Aberto;06/out;6;jun/25
+130;05/06/2025;2025;ALEXANDER;Engenharia de Produtos;Pintura;Benchmarking;• O Aplicador hoje utilizado identificamos que estamos jogando no ar pelo menos (40 a 60%) da tinta, por esse motivo, estávamos desenvolvendo com ArFlux um equipamento T2 que ajudaria na economia da tinta.  Trabalha com baixa pressão e não alta pressão, equipamento que aquece a tinta. Acelera a secagem, economiza 40% da tinta desperdiçada. Conseguimos utilizar em condições adversas como frio e umidade.;Estamos trocando o aplicador de tinta para reduzir o desperdício de tinta  e melhorar a performance e otimização de processo.;Redução de Custo, Otimização de processos, Melhorar a performance da Pintura, Menos desperdício.;Em Análise;;;;;;;;ALEXANDER;Em andamento;;;; R$ -   ; R$ -   ;0;2;1;3;4;4;4;1;1;;;Em Aberto;06/out;6;jun/25
+131;05/06/2025;2025;DIOGO;Administração/Produção;Controle de Qualidade;"Quick Win
+(Mel. Ráp.)";"Analista entra na planilha registra nova reclamação e em outro momento com um check list avalia informações faltantes e faz contato com as áreas responsáveis por cada informação.
+Além do tempo que se perde, o pior é o risco de esquecimentos.";"Criar uma automação para que ao registrar uma nova reclamação o ""robô"" entre na planilha veirifique as informações conforme alguma regra e envie um e-mail de forma automática.";"1 - Evitar erros humanos com falta de informação ou esquecimentos de envio
+2 - Eliminação de tempo operacional (em média 10 minutos)
+3 - Redução de perda de tempo em espera, pois normalmente o anlaista não conseguiaa enviar e-mail no mesmo dia da reclamação";Implementada;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;0;2;;;;;;;;;;Em Aberto;06/out;6;jun/25
+132;10/06/2025;2025;ANDERSON_JOSE;Engenharia de Processos;Coordenação;"Quick Win
+(Mel. Ráp.)";Hoje preciso atualizar uma planilha todos os dias com dados de produção diária e refugos preciso verificar o relatório de produção e relatórios de perdas e depois gerar um e-mail com todos esses dados e anexos para enviar todos os dias.;Criar um Dashboard…Acredito que um Dashboard faria tudo isso automaticamente, gerando uma economia de tempo e evitando erros com digitação manual nas planilhas;"Ganho de tempo operacional 
+Eliminar riscos de erros de digitação que impactam nos gráficos.
+Tornar os gráficos atuais em gráficos com melhor comunicação e compreensão visual das informações.
+Maior facilidade para compartilhar os dados.";;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;0;2;;;;;;;;;;Em Aberto;0 - 5;1;jun/25
+133;10/06/2025;2025;ALEXANDER;Engenharia de Produtos;Engenharia de Produtos;;No Passado essa peça foi Desenvolvida pela Empresa Impermol com o Custo R$ 11.658,44, mas no desenvolvimento foi questionado o certificado do material e seu ferramental diluído em 05 peças. Após a entrega da quinta peça a empresa desistiu de fornecer para Biza (meados de Março-25). Como é uma peça de grande valor agregado foi desenvolvido com outra empresa a Maurer  do Brasil (meados de Abril -2025) o custo de desenvolvimento foi para R$12.726,74 até a quinta peça devido o preço do ferramental estar diluído, com isso, a partir da sexta peça o custo passa para R$ 4.709,71 uma redução de R$ 7.753,55 por peça. Além que a peça vêm com certificado de material atestando que o material é Neoprene. A Maurer do Brasil é a única empresa certificada para Neoprene Estrutural no Brasil.  Já temos em carteira o pedido de 08 peças até Junho-25.;Redução de Custo e Aumento de Qualidade com a Certificação do Material atestando que é Neoprene. ;Custo Redução e Qualidade Melhor.;;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;0;2;;;;;;;;;;Em Aberto;0 - 5;1;jun/25
+134;10/06/2025;2025;LUIZ_FELIPE;CNC;Controle de Qualidade;Benchmarking;Na medição de pecas na tridimensional, levamos a peça para medir deixamos na bancada ao lado da tridimensional com a O.F.;Elaborar um cartão de solicitação de medição parecido com o que tem na solicitação  se instrumentos de medição, com os seguintes dados: nome do operador e máquina, nome da peça e qual operação foi feita, nunero sequencial da peça ( ex: peça  1) número da o.f, data e hora que foi deixada a peça, e estado da maquina se esta rodando ou aguardando medição.;Organização e produtividade, evitar de deixar a of toda junto da peça, informação  úteis como o estado da máquina rodando ou aguardando medição  para que aja prioridade nas medições e evitar maquinário parado por muito tempo, dados corretos para informações no relatório dimensional.;;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;0;2;;;;;;;;;;Em Aberto;0 - 5;1;jun/25
+135;10/06/2025;2025;DENERSON;Tubulação;Tubulação;"Projeto
+(Desenho)";"Tubos de 6m são dobrados hoje sem apoio, devido ao peso e ao comprimento são utilizados ""artificios"" para melhor execução.";"Criar uma base ""carrinho"" guia, melhorando o apoio do tubo e a precisão da dobra, o que envolveria em consequência a segurança da execução. ";Melhor qualidade na execução, evita ajustes na montagem e por consequência ganho de desempenho, segurança ao executar a atividade visto o comprimento do tubo.;;;;;;;;;;Em andamento;;;; R$ -   ; R$ -   ;0;2;;;;;;;;;;Em Aberto;0 - 5;1;jun/25
+136;05/03/2025;2025;ALEX_RODRIGUES;Manutenção ADM;Gestão de Resíduos;"Projeto
+(Infra)";Operador necessita fazer uso de escada e mesmo assim ainda tem muita dificuldade para fazer o descarte do óléo na BOMBA, causando riscos de segurança, riscos ambientais (vazamentos) e sujeiras (5S);Instalar uma bomba de sucção para não ser necessário o serviço manual.;1 - Ganho de tempo no descarte do óleo                       2 -Diminuir o risco de acidentes                                     3- Diminuir o Risco de acidente ambiental (vazamento/derranamento)                                                 4- Automatização do processo que era manual             ;Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ;R$ 500,00;" Custo apenas do equipamento; para instalação foi em dia normal e em menos de 3 horas. ";;ALEX_RODRIGUES;2025;30/04/2025;02/05/2025;-; R$ -   ; R$ -   ;288;2;1;4;1;3;3;4;1;1;BOM 436;Concluído;30;58;mar/25
+137;03/02/2025;2025;EDSON;Manutenção;Gestão de Resíduos;"Projeto
+(Infra)";"Agua do ar condicionado condensava escorria no chão e ia para rede fluvial (esgoto), ou seja, era ""perdida""";Encanar agua que condensa do ar condicionado diretamente até um reservatório para reaproveitamento dessa água;"1 - Aproveitamento de recurso natural para limpezas, etc..
+2 - Redução de custo com água
+3 - Ganho de 5S, evitando água escorrida no pátio";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ;"Custo de 6 horas de mão de obra parainstalação: R$ 31,00 por hora, e para o total de 6 horas trabalhadas, R$ 186,00
+
+Materiais (2 galão de 100L, canos, torneira, etc) no custo de R$ 85,00
+
+Calculamos GANHO de em média de 200L por mês, ou seja, redução de custo de ± R$XX";;ALEX_RODRIGUES;2025;31/03/2025;07/03/2025;-; R$ -   ; R$ -   ;48;2;1;1;1;4;2;1;1;3;SS;Concluído;30;32;fev/25
+138;02/06/2025;2025;EDSON;Manutenção;CNC;"Projeto
+(Infra)";Operadores do CNC precisam fazer o acionamento do exaustor no ínicio do turno para fazer o equilibrio da temperatura do ambiente (ligar quanto está calor), causando riscos de esquecimento de desligar e ineficiência do exaustor ligado mesmo sem necessidade;Fazer automatização do sistema de exaustão com uso de controlador da temperatura para ligar o exaustor de forma automática;"1 - Redução de custo (exaustor menos tempo ligado)
+2 - Aumentar vida útil do equipamento
+3 - Eliminação de obra para ligar e desligar o exaustor
+4 - Redução de risco de segurança, devido não ter mais intervenção humanda e devido equipamento ficar menos tempo ligado";Implementada; R$ -   ; R$ -   ; R$ -   ; R$ -   ; R$ -   ;"Custo de 1 hora de mão de obra para instalação: R$ 00 por hora, e para o total de 1 hora trabalhadas, R$ 0
+
+Materiais no custo de R$ 80,00
+
+Calculamos GANHO de em média de 200L por mês, ou seja, redução de custo de ± R$XX";;ALEX_RODRIGUES;2025;10/06/2025;10/06/2025;-; R$ -   ; R$ -   ;216;2;1;3;1;3;1;4;1;3;SS;Concluído;06/out;8;jun/25
