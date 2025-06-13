@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <h3>Ideia #${obj["Item"]}</h3>
       <p><strong>Status:</strong> ${obj["Status"]}</p>
       <p><strong>Data:</strong> ${obj["Data da Ideia"]}</p>
-      <p><strong>Descrição:</strong> ${obj["Descrição da Ideia de Melhoria (O que / Como)"]}</p>
+      <p><strong>Descrição:</strong> ${obj["Descrição da Ideia de Melhoria"]}</p>
       <p><strong>Agente:</strong> ${obj["Agente da Melhoria"]}</p>
     `;
     return div;
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const filtrados = dadosOriginais.filter(d => {
       const statusOk = !statusSelecionado || d["Status"] === statusSelecionado;
-      const textoCard = `${d["Item"]} ${d["Status"]} ${d["Data da Ideia"]} ${d["Descrição da Ideia de Melhoria (O que / Como)"]} ${d["Agente da Melhoria"]}`.toLowerCase();
+      const textoCard = `${d["Item"]} ${d["Status"]} ${d["Data da Ideia"]} ${d["Descrição da Ideia de Melhoria"]} ${d["Agente da Melhoria"]}`.toLowerCase();
       const pesquisaOk = textoCard.includes(termoBusca);
       return statusOk && pesquisaOk;
     });
