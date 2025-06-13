@@ -1,31 +1,84 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Catálogo BIZA</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo de Ideias BIZA</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f5f5;
+    }
+
+    header {
+      background-color: #111;
+      color: #f8ad1e;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      padding: 1rem;
+      background: #222;
+    }
+
+    .controls select,
+    .controls input {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      padding: 1rem;
+    }
+
+    .card {
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    @media (max-width: 600px) {
+      .controls {
+        flex-direction: column;
+      }
+
+      .controls select,
+      .controls input {
+        width: 100%;
+      }
+    }
+  </style>
 </head>
 <body>
-  <header id="cabecalho">
-  <img src="logo-BIZAxGHT.png" alt="Logos BIZA e GHT" id="logo-geral">
-  <h1>Catálogo de Ideias BIZA</h1>
-</header>
+  <header>
+    <img src="logo.png" alt="Logo BIZA e GHT" style="max-width: 120px; display: block; margin: 0 auto;">
+    <h1>Catálogo de Ideias BIZA</h1>
+  </header>
 
-  <div id="filtros">
+  <section class="controls">
     <select id="statusFilter">
-      <option value="">— Todos Status —</option>
-      <option value="Em Aberto">Em Aberto</option>
+      <option value="">-- Todos Status --</option>
       <option value="Concluído">Concluído</option>
+      <option value="Em Aberto">Em Aberto</option>
     </select>
-
     <input type="text" id="pesquisa" placeholder="Pesquisar ideias..." />
-  </div>
+  </section>
 
-  <div id="cards"></div>
+  <section id="cards" class="container"></section>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
+
 
  
