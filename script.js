@@ -2,13 +2,21 @@ document.addEventListener('DOMContentLoaded', () => {
   const csvUrl = 'https://raw.githubusercontent.com/Dodoccb/Catalogo-BIZA/main/FOR.BIZA.SGI.csv';
   let dadosOriginais = [];
 
+  function excelDateToJSDate(serial) {
+  const utc_days = Math.floor(serial - 25569);
+  const utc_value = utc_days * 86400; 
+  const date_info = new Date(utc_value * 1000);
+  return date_info.toLocaleDateString('pt-BR'); // Retorna no formato dd/mm/aaaa devido erro de formatação de data no power automate
+}
+
+
   function criarCard(obj) {
     const div = document.createElement('div');
     div.className = 'card';
     div.innerHTML = `
       <h3>Ideia #${obj["Item"]}</h3>
       <p><strong>Status:</strong> ${obj["Status"]}</p>
-      <p><strong>Data:</strong> ${obj["Data da Ideia"]}</p>
+      <p><strong>Data:</strong> ${excelDateToJSDate(obj["Data da Ideia"])}</p>
       <p><strong>Descrição:</strong> ${obj["Descrição da Ideia de Melhoria"]}</p>
       <p><strong>Agente:</strong> ${obj["Agente da Melhoria"]}</p>
     `;
