@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     div.innerHTML = `
       <h3>Ideia #${obj["Item"]}</h3>
       <p><strong>Status:</strong> ${obj["Status"]}</p>
-      <p><strong>Data:</strong> ${obj["Data da Ideia"]}</p>
+     <p><strong>Data:</strong> ${excelDateToJSDate(obj["Data da Ideia"])}</p>
       <p><strong>Descrição:</strong> ${obj["Descrição da Ideia de Melhoria"]}</p>
       <p><strong>Agente:</strong> ${obj["Agente da Melhoria"]}</p>
     `;
