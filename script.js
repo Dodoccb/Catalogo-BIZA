@@ -37,6 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     filtrados.forEach(d => container.appendChild(criarCard(d)));
+    document.getElementById('totalMelhorias').textContent = filtrados.length;
+
   }
 
   document.getElementById('statusFilter').addEventListener('change', renderizar);

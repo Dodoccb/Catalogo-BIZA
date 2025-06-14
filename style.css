@@ -93,4 +93,37 @@ input[type="text"] {
   .card p {
     font-size: 0.95rem;
   }
+
+ .total-box {
+  background-color: #1f1f1f;
+  color: orange;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: bold;
+  text-align: center;
+  min-width: 140px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+/* Desktop: coloca ao lado dos filtros */
+@media (min-width: 768px) {
+  .filtros {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+
+  .total-box {
+    margin-top: 0;
+    margin-left: auto;
+  }
+}
+
 }
