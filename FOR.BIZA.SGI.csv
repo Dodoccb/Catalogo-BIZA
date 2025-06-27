@@ -91,7 +91,7 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 90;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento das Serras
 91;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento das Gravação
 92;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento do acabamento
-93;45748;Em Aberto;DANILO;Melhorar a comunicação entre os operadores CNC com a liderença e demais setores de apio, através de rádio de comunicação.
+93;45748;Concluído;DANILO;Melhorar a comunicação entre os operadores CNC com a liderença e demais setores de apio, através de rádio de comunicação.
 94;45744;Concluído;MATHEUS_DE_ANDRADE;Viabilizar geração de OF para itens de garantia
 95;45764;Em Aberto;LAURA;Desenvolver relatório no sistema SPR para viabilização de indicadores de SAVING.
 96;45764;Em Aberto;RICARDO_H;Melhoria: Startar a compra dos componentes no mesmo momento da colocação da ordem de compras do item principal. Como: Cadastra BOM “ Bill of material + fornecedor homologado “ na tela do SPR da matriz , e sempre que for colocar a ordem de compras do principal já estoura a compra dos componentes que não estão disponíveis no estoque na sua totalidade. Processo similar ao utilizado pelo time do Plinio no processo de montagem dos sistemas de abastecimento e combate a incêndio. (Falar com Roseli ou Serginho)
