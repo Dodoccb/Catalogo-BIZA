@@ -5,8 +5,8 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 88;45756;Em Aberto;OSVALDO;1-Melhorar coleta do óleo descartável da máquina CNC (do skimmer) 2-Melhorar reabastecimento do óleo aproveitável do carrinho de cavaco no CNC.       Obs: Eles devem ter recipientes diferentes e procedimentos diferentes. Como: Criar um recipiente de óleo descartável do Skimer móvel com algum vasilhame pra facilitar no descarte e nomear o recepiente do óleo aproveitavel de colocar nas máquinas pra não contaminar o mesmo. Identificar carrinhos com plaqueta por máquinas onde  devem ser usados, e atuar na padronização de todo o fluxo, desde o momento em que a auxiliar prepara a istura de água e óleo até a destinação final
 89;45756;Em Aberto;HENRIQUE_DE_SIQUEIRA;Criar informações sobre valores de economia com uso de retalhos no OXICORTE (indicador) e sobre custos com uso indevido de chapas a mais do roteiro Como: solicitar ao TI pra baixar relatório do SPR dos valores de transferência feito pelo Henrique Siqueira, transferindo saldo do empenho para armazém MP são os ganhos de reaproveitamento e quando ele faz o inverso no sistema são os usos indevidos. Obs.:tanto o ganho quanto o uso a mais devem ser medidos
 90;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento das Serras
-91;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento das Gravação
-92;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento do acabamento
+91;45748;Reprovada;DANILO;Melhorar a documentação e padronização do processo de apontamento das Gravação
+92;45748;Reprovada;DANILO;Melhorar a documentação e padronização do processo de apontamento do acabamento
 93;45748;Concluído;DANILO;Melhorar a comunicação entre os operadores CNC com a liderença e demais setores de apio, através de rádio de comunicação.
 94;45744;Concluído;MATHEUS_DE_ANDRADE;Viabilizar geração de OF para itens de garantia
 95;45764;Em Aberto;LAURA;Desenvolver relatório no sistema SPR para viabilização de indicadores de SAVING.
