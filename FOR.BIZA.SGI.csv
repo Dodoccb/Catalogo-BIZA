@@ -17,7 +17,7 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 100;45777;Em Aberto;LOURIVAL;Providenciar um local adequado, coberto,com demarcação ,assim tanto o veículo quanto os colaboradores estarão mais seguros.
 101;45782;Reprovada;GUILHERME_STACHELSKI;Implementar travas nas rodas do varal de secagem de pecas evitando possíveis acidentes, quedas de pecas, e melhorando ergonomia do colaborador.
 102;45782;Em Aberto;DIOGO;Produzir uma caixa de contenção para colocar a caçamba dentro para que os poucos resíduos escorridos da caçamba escorram nessa caixa e depois sejam coletados com o uso da bomba pneumática caso tenha algum acúmulo. Para essa melhoria o piso do local atual da caçamba terá que ser feito um pequeno trabalho de correção e de nivelamento. Vídeo proposta: https://www.youtube.com/watch?v=4BQGJi-8hzc
-103;45783;Em Aberto;LEONARD;Terceirização de usinagem do item COMP1134390 (GARFO FUNDIDO) reduzindo custo de usinagem.
+103;45783;Reprovada;LEONARD;Terceirização de usinagem do item COMP1134390 (GARFO FUNDIDO) reduzindo custo de usinagem.
 104;45785;Concluído;FERNANDO_TRYFERIS;Buscar oportunidades de descarte com outros fornecedores, viabilizando uma geração de receita, ou mesmo não gerando receita garantir que não tenhamos custo para coleta e destinação.
 105;45797.8996180556;Reprovada;LAURA;Colocar tag “sem parar/veloe etc” nos veículos da Biza. 
 106;45799.5862615741;Em Aberto;JESIEL;Instalação de bloqueador de ar no relógio de água.
@@ -68,7 +68,7 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 151;45838.3908796296;Em Aberto;DIOGO;Criar um painel de metas BIZA com o Status mês a mês atualizado de forma online, no mesmo formato de SITE do catálogo de ideias que foi criado: https://sgibiza.github.io/Painel-de-Metas-BIZA/metas_salariais.html
 152;45839;Em Aberto;DANIELE;Adaptar uma mangueira apropriada com esguicho para encher as panelas já alocadas no fogão, para evitar estarem carregando no braço.
 153;45844;Reprovada;ANA_CRISTINA;Precisamos de uma sapato que nós de segurança e conforto. Se for cano longo vai ajudar bastante pós no final do expediente ficamos com os pés muito molhado 
-154;45846;Em Aberto;ELCIO_ELIU;Criar um Checklist diário de segurança na usinagem, setor CNC como piloto. Promover a identificação proativa de condições inseguras antes do início das operações, contribuindo para a segurança do processo e a integridade física dos colaboradores.
+154;45846;Reprovada;ELCIO_ELIU;Criar um Checklist diário de segurança na usinagem, setor CNC como piloto. Promover a identificação proativa de condições inseguras antes do início das operações, contribuindo para a segurança do processo e a integridade física dos colaboradores.
 155;45847;Em Aberto;ELCIO_ELIU;Ter uma plataforma direta onde pode ter acesso, semelhante ao que hoje temos no DUAPI sistema que é usado para controle e entrega de epis com identificalção do EPI por decrição e imagem.
 156;45853;Em Aberto;FRANCIELE;Digitalizar coleta de informações, e automatizar envio da compilação dos dados de quebras de ferramentas para Coordenação de Produção e gerências de ADMINISTRATIVA e FABRIL
 157;45860.3617708333;Em Aberto;JORGE_BECKER;Algumas vezes me deparei com entregadores esperando atendimento e não ter pessoa no recebimento. E também já vi pessoa de outro setor recebendo materiais e já ter dado o horário de expediente do setor de recebimento. 
@@ -85,7 +85,7 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 168;45876;Em Aberto;RODRIGO_RODRIGUES;A ideia é desenvolver um dispositivo de teste, onde consigamos testar o giro das polias, em uma rotação próxima da aplicação de campo, e por um tempo mais prolongado, isso irá simular uma aplicação próxima da que a polia empenha em campo. 
 169;45884;Em Aberto;DULCELI;Colocar rodas com trava, ou colocar uma trava tipo de porta dos dois lados do carrinho para travar no chão.
 170;45888.3736805556;Em Aberto;RODRIGO_RODRIGUES;30 minutos de ginástica laboral por semana divididos em dois dias 
-171;45889.3691087963;Em Aberto;CIBELE;Automatizar entrega de EPIs com contratação de uma Vending Machine de EPIs:  "Máquina de Epi's'
+171;45889.3691087963;Reprovada;CIBELE;Automatizar entrega de EPIs com contratação de uma Vending Machine de EPIs:  "Máquina de Epi's'
 
 
 172;45889;Em Aberto;CRISTINA;Colocar uma prateleira para verticalizar o estoque.
