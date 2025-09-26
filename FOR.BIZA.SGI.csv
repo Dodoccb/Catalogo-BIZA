@@ -71,32 +71,32 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 154;45846;Reprovada;ELCIO_ELIU;Criar um Checklist diário de segurança na usinagem, setor CNC como piloto. Promover a identificação proativa de condições inseguras antes do início das operações, contribuindo para a segurança do processo e a integridade física dos colaboradores.
 155;45847;Em Aberto;ELCIO_ELIU;Ter uma plataforma direta onde pode ter acesso, semelhante ao que hoje temos no DUAPI sistema que é usado para controle e entrega de epis com identificalção do EPI por decrição e imagem.
 156;45853;Em Aberto;FRANCIELE;Digitalizar coleta de informações, e automatizar envio da compilação dos dados de quebras de ferramentas para Coordenação de Produção e gerências de ADMINISTRATIVA e FABRIL
-162;45868;Em Aberto;DIOGO;Criar uma pagina WEB (tela no SPRWEB) para pesquisa e rastreio de materiais solicitados ao almoxarifado / compras com geração de timeline com STATUS da compra do material de forma bem interativa, onde possa ser pesquisado pelo material ou n° do material como exemplo "BC000" para aparecer as requisições em aberto e o seu STATUS.
-163;45869.5880902778;Em Aberto;RICARDO_AP;Elaborar uma contenção ou uma espécie de bacia que acomode os fluxos/ganulados que caem da máquina durante o processo de solda por arco submerso
+157;45860.3617708333;Em Aberto;JORGE_BECKER;Algumas vezes me deparei com entregadores esperando atendimento e não ter pessoa no recebimento. E também já vi pessoa de outro setor recebendo materiais e já ter dado o horário de expediente do setor de recebimento. 
 158;45860.364224537;Em Aberto;JORGE_BECKER;Alterar os interruptores por sensores de presença.
 159;45860.3937037037;Em Aberto;ALEXANDER;Inclusão de Mistura M21 para diminuir respingos, porosidades, melhorar os tempos de fabricação. Aumentar a vida útil dos consumíveis.
+160;45861.4009259259;Em Aberto;JUNIOR;Disponibilizar um tecnico de suporte TI pelo menos uma semana exclusivamente para tratar os problemas na comunicação entre programação CNC x máquinas CNC, e os problemas nos PCs. Resultados mais eficientes no suporte TI lembrando que quando tem um problema fisico em um pc não se resolve via acesso remoto .
 161;45839;Concluído;JESIEL;Fazer uma base com 4 ou 5 cm de altura, para que a embalagem fique mais próximo do arame de selagem. A base precisa ser de grade para o calor da resistência fazer o trabalho de vácuo na embalagem. 
-167;45813;Em Aberto;ELSIO_HENRIQUE;Sistema de abertura de portas com fechadura por Biometria somente pessoas autorizado com a biometria poderá entrar no setor para futuramente pegar calibradores de rosca e calibrador de entalhado 
-169;45884;Em Aberto;DULCELI;Colocar rodas com trava, ou colocar uma trava tipo de porta dos dois lados do carrinho para travar no chão.
+162;45868;Em Aberto;DIOGO;Criar uma pagina WEB (tela no SPRWEB) para pesquisa e rastreio de materiais solicitados ao almoxarifado / compras com geração de timeline com STATUS da compra do material de forma bem interativa, onde possa ser pesquisado pelo material ou n° do material como exemplo "BC000" para aparecer as requisições em aberto e o seu STATUS.
+163;45869.5880902778;Em Aberto;RICARDO_AP;Elaborar uma contenção ou uma espécie de bacia que acomode os fluxos/ganulados que caem da máquina durante o processo de solda por arco submerso
 164;45870.4430671296;Reprovada;RICARDO_AP;Adaptar um limitador de fim de curso, garantindo que o cabo de aço da talha não tenha passagem, eliminando as trocas por manutenção corretiva / quebra
 165;45810;Reprovada;HENRIQUE_CARVALHO;Instalação urgente de trava limitadora para prevenção de acidentes
 166;45810;Reprovada;HENRIQUE_CARVALHO;Sugiro disponibilizar a funcionalidade de upload de imagem para ilustrar o local onde a melhoria está sendo solicitada. Por exemplo: a janela do banheiro encontra-se nesta condição conforme imagem. 
-174;45891;Em Aberto;RICARDO_AP;Implantar posicionador de solda de bancada
+167;45813;Em Aberto;ELSIO_HENRIQUE;Sistema de abertura de portas com fechadura por Biometria somente pessoas autorizado com a biometria poderá entrar no setor para futuramente pegar calibradores de rosca e calibrador de entalhado 
 168;45876;Em Aberto;RODRIGO_RODRIGUES;A ideia é desenvolver um dispositivo de teste, onde consigamos testar o giro das polias, em uma rotação próxima da aplicação de campo, e por um tempo mais prolongado, isso irá simular uma aplicação próxima da que a polia empenha em campo. 
-176;45901;Em Aberto;LEANDRO_MENDES;Fazer uma bandeija para conseguirmos colocar diretamente um latão para coletar o cavaco da máquina sem a necessidade de separações e já implementar na entrada do tambor a espécie de um fúnil com imã para separar o Cavaco especial (bronze, aluminio) do cavaco de aço comum
+169;45884;Em Aberto;DULCELI;Colocar rodas com trava, ou colocar uma trava tipo de porta dos dois lados do carrinho para travar no chão.
 170;45888.3736805556;Em Aberto;RODRIGO_RODRIGUES;30 minutos de ginástica laboral por semana divididos em dois dias 
 171;45889.3691087963;Reprovada;CIBELE;Automatizar entrega de EPIs com contratação de uma Vending Machine de EPIs:  "Máquina de Epi's'
 
 
-173;45890;Em Aberto;ANDERSON_CESTI;Trazer os calibradores para parte interna da sala de qualidade, mantendo organizados e com rastreio do todos os calibradores.
-178;45904.6946180556;Reprovada;JESIEL;Separar centro de custo criando "máquina".
-177;45902.5040393519;Em Aberto;RICARDO_AP;Disponibilizar uma "caixinha" entre os setores de acabamento e solda, CNC e convencional, afim de os operadores depositar os restos de lixa ainda em condições de uso para que outros operadores possam reutilizar sem a necessidade de se deslocar para o almox e pegar uma nova.
-175;45898;Reprovada;ANDERSON_JOSE;Colocar no vestiário uma caixa de engraxate com graxa e escova. Isso no meu ver além de manter um padrão de botas sempre bem cuidadas dentro da empresa acredito que iria reduzir a quantidade de trocas de botas que geralmente não estão furadas mas somente com aparência de velhas.
-180;45916;Reprovada;DIOGO;automatizar o processo de analise critica
-160;45861.4009259259;Em Aberto;JUNIOR;Disponibilizar um tecnico de suporte TI pelo menos uma semana exclusivamente para tratar os problemas na comunicação entre programação CNC x máquinas CNC, e os problemas nos PCs. Resultados mais eficientes no suporte TI lembrando que quando tem um problema fisico em um pc não se resolve via acesso remoto .
 172;45889;Em Aberto;CRISTINA;Colocar uma prateleira para verticalizar o estoque.
+173;45890;Em Aberto;ANDERSON_CESTI;Trazer os calibradores para parte interna da sala de qualidade, mantendo organizados e com rastreio do todos os calibradores.
+174;45891;Em Aberto;RICARDO_AP;Implantar posicionador de solda de bancada
+175;45898;Reprovada;ANDERSON_JOSE;Colocar no vestiário uma caixa de engraxate com graxa e escova. Isso no meu ver além de manter um padrão de botas sempre bem cuidadas dentro da empresa acredito que iria reduzir a quantidade de trocas de botas que geralmente não estão furadas mas somente com aparência de velhas.
+176;45901;Em Aberto;LEANDRO_MENDES;Fazer uma bandeija para conseguirmos colocar diretamente um latão para coletar o cavaco da máquina sem a necessidade de separações e já implementar na entrada do tambor a espécie de um fúnil com imã para separar o Cavaco especial (bronze, aluminio) do cavaco de aço comum
+177;45902.5040393519;Em Aberto;RICARDO_AP;Disponibilizar uma "caixinha" entre os setores de acabamento e solda, CNC e convencional, afim de os operadores depositar os restos de lixa ainda em condições de uso para que outros operadores possam reutilizar sem a necessidade de se deslocar para o almox e pegar uma nova.
+178;45904.6946180556;Reprovada;JESIEL;Separar centro de custo criando "máquina".
 179;45909;Em Aberto;FABIO;fazer armario projetado com divisórias, separando instrumentos para manutenção, coletas para calibração, e armazenamentos de caixas de instrumentos vazias emprestados para produção. lembrando que o armario que temos hoje não suporta mais a quantidades de instrumentos existente na empresa.
-157;45860.3617708333;Em Aberto;JORGE_BECKER;Algumas vezes me deparei com entregadores esperando atendimento e não ter pessoa no recebimento. E também já vi pessoa de outro setor recebendo materiais e já ter dado o horário de expediente do setor de recebimento. 
+180;45916;Reprovada;DIOGO;automatizar o processo de analise critica
 181;45916;Em Aberto;DIOGO;Implementar módulo de Análise Crítica no Software SIGO
 182;45917;Em Aberto;WAGNER;Mandar fabricar ou comprar uma garra para tambores
 183;45917;Em Aberto;RAFAEL_MARTINS;Dispositivo que arruma o batimento do furo de centro já na retifica sem necessidade de ir para o setor do torno convencional para o retrabalho
