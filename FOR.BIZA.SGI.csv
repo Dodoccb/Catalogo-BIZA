@@ -63,7 +63,7 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 146;45717;Concluído;JELITON;Retirar a operação de retifica por abrasão realizada nas retificas cilindras, e substituir por operação no CNC.
 147;45672;Concluído;ANDERSON_JOSE;Observando a grande quantidade de machos quebrados durante a usinagem do item COMP1473309D gerando um custo alto de reposição, buscar uma alternativa com o fornecedor Guhring e mudamos o MACHO 1/2-13 HELICOIDAL para o MACHO 1/2-13 LAMINADOR SINTERIZADO.
 148;45827;Em Aberto;RENATO_OLIVEIRA;Fabricar uma gaiola de contenção semelhante ou idêntica a que já fornecemos para a VALE
-99;45777;Em Aberto;GUILHERME_STACHELSKI;Criar dashboards direto no SIGO com liberação de acesso a todos os usuários, visando o maior controle e visualização das pendências de cada processo por área. Se possível espandir para demais necessidades ou gaps de informações.
+99;45777;Em Aberto;GUILHERME_STACHELSKI;Criar dashboards direto no SIGO com atualizações automáticas, conforme preenchimento dos registros, com acesso a todos os usuários, visando o maior controle e visualização das pendências de cada processo por área. Se possível espandir para demais necessidades ou gaps de informações do sistema SIGO.
 144;45827.4430324074;Reprovada;JOSE_CARLOS;Eliminar vazamento para garantir segurança no transito do local
 151;45838.3908796296;Concluído;DIOGO;Criar um painel de metas BIZA com o Status mês a mês atualizado de forma online, no mesmo formato de SITE do catálogo de ideias que foi criado: https://sgibiza.github.io/Painel-de-Metas-BIZA/metas_salariais.html
 152;45839;Em Aberto;DANIELE;Adaptar uma mangueira apropriada com esguicho para encher as panelas já alocadas no fogão, para evitar estarem carregando no braço.
