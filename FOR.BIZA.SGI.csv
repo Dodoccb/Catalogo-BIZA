@@ -6,7 +6,7 @@ Item;Data da Ideia;Status;Agente da Melhoria;Descrição da Ideia de Melhoria
 89;45756;Em Aberto;HENRIQUE_DE_SIQUEIRA;Criar informações sobre valores de economia com uso de retalhos no OXICORTE (indicador) e sobre custos com uso indevido de chapas a mais do roteiro Como: solicitar ao TI pra baixar relatório do SPR dos valores de transferência feito pelo Henrique Siqueira, transferindo saldo do empenho para armazém MP são os ganhos de reaproveitamento e quando ele faz o inverso no sistema são os usos indevidos. Obs.:tanto o ganho quanto o uso a mais devem ser medidos
 90;45748;Em Aberto;DANILO;Melhorar a documentação e padronização do processo de apontamento das Serras
 91;45748;Em Aberto;ANDERSON_CESTI;Obter um braço 3D de medição para possibilitar executar o processo de medição e liberação de peças direto na máquina, sem a necessidade de retirar a peça da placa ou dispositivo durante a operação
-92;45748;Em Aberto;EBERSON;Obter um equipamento de zeramento de ferramentas CNC (Para realizar o preset antes da ferramenta chegar na máquina), eliminando assim uma etapa de setup antes realizada pelo operador.
+92;45748;Em Aberto;EBERSON;Obter um equipamento (Zoller) de zeramento de ferramentas CNC (Para realizar o preset antes da ferramenta chegar na máquina), eliminando assim uma etapa de setup antes realizada pelo operador.
 93;45748;Concluído;DANILO;Melhorar a comunicação entre os operadores CNC com a liderença e demais setores de apio, através de rádio de comunicação.
 94;45744;Concluído;MATHEUS_DE_ANDRADE;Viabilizar geração de OF para itens de garantia
 95;45764;Em Aberto;LAURA;Desenvolver relatório no sistema SPR para viabilização de indicadores de SAVING.
